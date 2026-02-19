@@ -1,0 +1,2180 @@
+student_id,grade,age,gender,item_id,target_word,student_sentence,time_spent_seconds
+1,4,9,Male,1,because,I am hapy because day.,35.57
+1,4,9,Male,2,beautiful,I am hapy beautiful day.,25.33
+1,4,9,Male,3,quickly,I am hapy quickly day.,36.53
+1,4,9,Male,4,friend,I am hapy friend day.,35.19
+1,4,9,Male,6,family,The family is fun.,21.16
+1,4,9,Male,10,favorite,I am hapy favorite day.,22.3
+1,4,9,Male,11,summer,I am hapy summer day.,26.47
+1,4,9,Male,12,winter,I am hapy winter day.,30.8
+1,4,9,Male,13,mountain,The mountain is fun.,26.0
+1,4,9,Male,14,river,I am hapy river day.,22.75
+1,4,9,Male,16,tired,I am hapy tired day.,29.51
+1,4,9,Male,17,excited,I am hapy excited day.,22.82
+1,4,9,Male,18,football,I am hapy football day.,35.18
+1,4,9,Male,19,library,The library is fun.,21.69
+1,4,9,Male,20,birthday,I am hapy birthday day.,31.95
+1,4,9,Male,22,computer,The computer is fun.,30.71
+1,4,9,Male,23,pencil,I am hapy pencil day.,36.34
+1,4,9,Male,24,music,I am hapy music day.,30.33
+1,4,9,Male,25,forest,I am hapy forest day.,31.76
+1,4,9,Male,26,painting,The painting is fun.,37.1
+1,4,9,Male,27,ocean,I am hapy ocean day.,29.83
+1,4,9,Male,28,storm,I am hapy storm day.,31.2
+1,4,9,Male,29,snow,The snow is fun.,30.49
+1,4,9,Male,31,castle,I am hapy castle day.,38.5
+1,4,9,Male,32,bridge,I am hapy bridge day.,25.23
+1,4,9,Male,33,island,I am hapy island day.,29.58
+1,4,9,Male,34,train,I am hapy train day.,24.39
+1,4,9,Male,35,airplane,I am hapy airplane day.,33.85
+1,4,9,Male,36,market,I am hapy market day.,32.05
+1,4,9,Male,37,village,The village is fun.,25.7
+1,4,9,Male,38,city,The city is fun.,30.85
+1,4,9,Male,39,country,I am hapy country day.,25.9
+1,4,9,Male,43,chocolate,I am hapy chocolate day.,22.37
+1,4,9,Male,46,planet,I am hapy planet day.,24.38
+1,4,9,Male,47,star,I am hapy star day.,38.64
+1,4,9,Male,48,moon,I am hapy moon day.,30.71
+1,4,9,Male,49,earth,I am hapy earth day.,35.68
+1,4,9,Male,51,camera,I am hapy camera day.,29.02
+1,4,9,Male,52,telephone,I am hapy telephone day.,35.9
+1,4,9,Male,53,television,I am hapy television day.,39.47
+1,4,9,Male,54,robot,I am hapy robot day.,34.03
+1,4,9,Male,55,book,I am hapy book day.,25.97
+1,4,9,Male,60,dance,I am hapy dance day.,21.32
+2,5,10,Male,4,friend,I used the word friend correctly in this sentence.,6.78
+2,5,10,Male,5,school,I used the word school correctly in this sentence.,6.09
+2,5,10,Male,6,family,I used the word family correctly in this sentence.,5.06
+2,5,10,Male,7,happy,I used the word happy correctly in this sentence.,12.71
+2,5,10,Male,8,animal,I used the word animal correctly in this sentence.,11.63
+2,5,10,Male,9,garden,I used the word garden correctly in this sentence.,11.14
+2,5,10,Male,11,summer,I used the word summer correctly in this sentence.,9.5
+2,5,10,Male,12,winter,I used the word winter correctly in this sentence.,13.8
+2,5,10,Male,16,tired,I used the word tired correctly in this sentence.,11.42
+2,5,10,Male,17,excited,I used the word excited correctly in this sentence.,14.01
+2,5,10,Male,18,football,I used the word football correctly in this sentence.,14.41
+2,5,10,Male,19,library,I used the word library correctly in this sentence.,12.24
+2,5,10,Male,20,birthday,I used the word birthday correctly in this sentence.,13.4
+2,5,10,Male,21,teacher,I used the word teacher correctly in this sentence.,8.16
+2,5,10,Male,24,music,I used the word music correctly in this sentence.,7.04
+2,5,10,Male,25,forest,I used the word forest correctly in this sentence.,5.25
+2,5,10,Male,26,painting,I used the word painting correctly in this sentence.,12.14
+2,5,10,Male,28,storm,I used the word storm correctly in this sentence.,6.35
+2,5,10,Male,29,snow,I used the word snow correctly in this sentence.,12.08
+2,5,10,Male,30,desert,I used the word desert correctly in this sentence.,12.56
+2,5,10,Male,32,bridge,I used the word bridge correctly in this sentence.,9.77
+2,5,10,Male,35,airplane,I used the word airplane correctly in this sentence.,5.91
+2,5,10,Male,39,country,I used the word country correctly in this sentence.,11.52
+2,5,10,Male,40,language,I used the word language correctly in this sentence.,9.31
+2,5,10,Male,41,breakfast,I used the word breakfast correctly in this sentence.,14.16
+2,5,10,Male,43,chocolate,I used the word chocolate correctly in this sentence.,9.92
+2,5,10,Male,44,science,I used the word science correctly in this sentence.,12.67
+2,5,10,Male,46,planet,I used the word planet correctly in this sentence.,6.57
+2,5,10,Male,47,star,I used the word star correctly in this sentence.,6.04
+2,5,10,Male,49,earth,I used the word earth correctly in this sentence.,10.35
+2,5,10,Male,52,telephone,I used the word telephone correctly in this sentence.,8.44
+2,5,10,Male,54,robot,I used the word robot correctly in this sentence.,14.22
+2,5,10,Male,55,book,I used the word book correctly in this sentence.,8.52
+2,5,10,Male,57,baseball,I used the word baseball correctly in this sentence.,5.22
+2,5,10,Male,58,tennis,I used the word tennis correctly in this sentence.,14.18
+2,5,10,Male,59,hockey,I used the word hockey correctly in this sentence.,6.29
+3,4,10,Male,1,because,My because is nice.,20.37
+3,4,10,Male,3,quickly,I go to skool every day quickly.,16.73
+3,4,10,Male,4,friend,My friend is nice.,16.51
+3,4,10,Male,5,school,My school is nice.,23.14
+3,4,10,Male,8,animal,My animal is nice.,16.07
+3,4,10,Male,9,garden,My garden is nice.,12.66
+3,4,10,Male,10,favorite,My favorite is nice.,23.94
+3,4,10,Male,13,mountain,My mountain is nice.,22.42
+3,4,10,Male,18,football,I go to skool every day football.,20.31
+3,4,10,Male,23,pencil,My pencil is nice.,23.56
+3,4,10,Male,25,forest,My forest is nice.,21.24
+3,4,10,Male,26,painting,My painting is nice.,12.82
+3,4,10,Male,29,snow,I go to skool every day snow.,18.51
+3,4,10,Male,31,castle,My castle is nice.,11.62
+3,4,10,Male,34,train,My train is nice.,20.22
+3,4,10,Male,36,market,My market is nice.,13.61
+3,4,10,Male,37,village,My village is nice.,10.58
+3,4,10,Male,38,city,My city is nice.,12.92
+3,4,10,Male,40,language,My language is nice.,20.04
+3,4,10,Male,42,dinner,My dinner is nice.,18.09
+3,4,10,Male,49,earth,My earth is nice.,17.8
+3,4,10,Male,50,sun,My sun is nice.,21.88
+3,4,10,Male,52,telephone,My telephone is nice.,14.05
+3,4,10,Male,54,robot,My robot is nice.,20.44
+3,4,10,Male,58,tennis,I go to skool every day tennis.,23.32
+3,4,10,Male,60,dance,My dance is nice.,22.11
+4,3,8,Male,1,because,I am hapy because day.,32.1
+4,3,8,Male,2,beautiful,I am hapy beautiful day.,30.9
+4,3,8,Male,3,quickly,I am hapy quickly day.,31.13
+4,3,8,Male,4,friend,The friend is fun.,37.05
+4,3,8,Male,5,school,I am hapy school day.,31.22
+4,3,8,Male,6,family,The family is fun.,26.01
+4,3,8,Male,7,happy,I am hapy happy day.,31.18
+4,3,8,Male,8,animal,The animal is fun.,24.02
+4,3,8,Male,9,garden,I am hapy garden day.,39.38
+4,3,8,Male,10,favorite,The favorite is fun.,26.29
+4,3,8,Male,11,summer,I am hapy summer day.,39.55
+4,3,8,Male,12,winter,I am hapy winter day.,35.72
+4,3,8,Male,13,mountain,I am hapy mountain day.,20.1
+4,3,8,Male,14,river,The river is fun.,38.72
+4,3,8,Male,15,delicious,I am hapy delicious day.,23.37
+4,3,8,Male,16,tired,I am hapy tired day.,27.5
+4,3,8,Male,17,excited,The excited is fun.,20.84
+4,3,8,Male,18,football,The football is fun.,35.67
+4,3,8,Male,19,library,The library is fun.,31.12
+4,3,8,Male,20,birthday,I am hapy birthday day.,21.98
+4,3,8,Male,21,teacher,I am hapy teacher day.,23.47
+4,3,8,Male,22,computer,I am hapy computer day.,21.52
+4,3,8,Male,23,pencil,I am hapy pencil day.,30.05
+4,3,8,Male,24,music,I am hapy music day.,23.2
+4,3,8,Male,25,forest,I am hapy forest day.,29.8
+4,3,8,Male,26,painting,I am hapy painting day.,32.35
+4,3,8,Male,27,ocean,I am hapy ocean day.,32.91
+4,3,8,Male,28,storm,The storm is fun.,23.14
+4,3,8,Male,29,snow,The snow is fun.,32.71
+4,3,8,Male,30,desert,The desert is fun.,30.13
+4,3,8,Male,31,castle,I am hapy castle day.,20.78
+4,3,8,Male,32,bridge,I am hapy bridge day.,34.53
+4,3,8,Male,33,island,The island is fun.,33.58
+4,3,8,Male,34,train,I am hapy train day.,29.61
+4,3,8,Male,35,airplane,I am hapy airplane day.,26.43
+4,3,8,Male,36,market,I am hapy market day.,39.14
+4,3,8,Male,37,village,I am hapy village day.,25.14
+4,3,8,Male,38,city,The city is fun.,30.64
+4,3,8,Male,39,country,I am hapy country day.,27.52
+4,3,8,Male,40,language,I am hapy language day.,20.36
+4,3,8,Male,41,breakfast,The breakfast is fun.,37.4
+4,3,8,Male,42,dinner,I am hapy dinner day.,35.16
+4,3,8,Male,43,chocolate,The chocolate is fun.,29.13
+4,3,8,Male,44,science,I am hapy science day.,26.52
+4,3,8,Male,45,history,I am hapy history day.,39.34
+4,3,8,Male,46,planet,I am hapy planet day.,38.06
+4,3,8,Male,47,star,The star is fun.,33.82
+4,3,8,Male,48,moon,The moon is fun.,25.72
+4,3,8,Male,49,earth,I am hapy earth day.,25.67
+4,3,8,Male,51,camera,I am hapy camera day.,30.68
+4,3,8,Male,52,telephone,The telephone is fun.,32.6
+4,3,8,Male,53,television,I am hapy television day.,32.45
+4,3,8,Male,54,robot,The robot is fun.,30.55
+4,3,8,Male,55,book,The book is fun.,29.01
+4,3,8,Male,56,basketball,I am hapy basketball day.,20.63
+4,3,8,Male,57,baseball,I am hapy baseball day.,22.37
+4,3,8,Male,58,tennis,I am hapy tennis day.,39.8
+4,3,8,Male,59,hockey,The hockey is fun.,21.88
+4,3,8,Male,60,dance,I am hapy dance day.,23.84
+5,5,11,Male,1,because,The because is fun.,21.65
+5,5,11,Male,4,friend,I am hapy friend day.,36.02
+5,5,11,Male,5,school,The school is fun.,22.43
+5,5,11,Male,6,family,I am hapy family day.,35.62
+5,5,11,Male,10,favorite,I am hapy favorite day.,24.45
+5,5,11,Male,13,mountain,I am hapy mountain day.,28.2
+5,5,11,Male,16,tired,I am hapy tired day.,20.37
+5,5,11,Male,21,teacher,I am hapy teacher day.,34.74
+5,5,11,Male,25,forest,The forest is fun.,31.56
+5,5,11,Male,26,painting,The painting is fun.,28.2
+5,5,11,Male,28,storm,I am hapy storm day.,24.52
+5,5,11,Male,29,snow,I am hapy snow day.,33.19
+5,5,11,Male,30,desert,I am hapy desert day.,33.74
+5,5,11,Male,33,island,The island is fun.,26.12
+5,5,11,Male,40,language,I am hapy language day.,23.23
+5,5,11,Male,41,breakfast,I am hapy breakfast day.,34.81
+5,5,11,Male,43,chocolate,I am hapy chocolate day.,27.66
+5,5,11,Male,44,science,I am hapy science day.,31.42
+5,5,11,Male,46,planet,I am hapy planet day.,36.5
+5,5,11,Male,49,earth,I am hapy earth day.,39.8
+5,5,11,Male,51,camera,I am hapy camera day.,32.91
+5,5,11,Male,53,television,The television is fun.,22.73
+5,5,11,Male,54,robot,The robot is fun.,31.83
+5,5,11,Male,55,book,I am hapy book day.,25.82
+5,5,11,Male,56,basketball,The basketball is fun.,29.47
+5,5,11,Male,58,tennis,I am hapy tennis day.,24.34
+5,5,11,Male,59,hockey,The hockey is fun.,22.77
+6,4,9,Male,1,because,I used the word because correctly in this sentence.,12.19
+6,4,9,Male,3,quickly,I used the word quickly correctly in this sentence.,6.15
+6,4,9,Male,4,friend,I used the word friend correctly in this sentence.,6.17
+6,4,9,Male,6,family,I used the word family correctly in this sentence.,10.0
+6,4,9,Male,7,happy,I used the word happy correctly in this sentence.,12.18
+6,4,9,Male,8,animal,I used the word animal correctly in this sentence.,9.77
+6,4,9,Male,9,garden,I used the word garden correctly in this sentence.,11.24
+6,4,9,Male,10,favorite,I used the word favorite correctly in this sentence.,14.35
+6,4,9,Male,11,summer,I used the word summer correctly in this sentence.,12.25
+6,4,9,Male,13,mountain,I used the word mountain correctly in this sentence.,12.7
+6,4,9,Male,14,river,I used the word river correctly in this sentence.,9.13
+6,4,9,Male,16,tired,I used the word tired correctly in this sentence.,6.79
+6,4,9,Male,18,football,I used the word football correctly in this sentence.,10.31
+6,4,9,Male,19,library,I used the word library correctly in this sentence.,10.43
+6,4,9,Male,20,birthday,I used the word birthday correctly in this sentence.,9.02
+6,4,9,Male,21,teacher,I used the word teacher correctly in this sentence.,7.62
+6,4,9,Male,23,pencil,I used the word pencil correctly in this sentence.,14.08
+6,4,9,Male,25,forest,I used the word forest correctly in this sentence.,11.87
+6,4,9,Male,26,painting,I used the word painting correctly in this sentence.,13.7
+6,4,9,Male,27,ocean,I used the word ocean correctly in this sentence.,8.94
+6,4,9,Male,28,storm,I used the word storm correctly in this sentence.,9.27
+6,4,9,Male,29,snow,I used the word snow correctly in this sentence.,8.5
+6,4,9,Male,30,desert,I used the word desert correctly in this sentence.,8.71
+6,4,9,Male,31,castle,I used the word castle correctly in this sentence.,14.68
+6,4,9,Male,32,bridge,I used the word bridge correctly in this sentence.,10.8
+6,4,9,Male,33,island,I used the word island correctly in this sentence.,5.34
+6,4,9,Male,34,train,I used the word train correctly in this sentence.,11.95
+6,4,9,Male,36,market,I used the word market correctly in this sentence.,14.59
+6,4,9,Male,37,village,I used the word village correctly in this sentence.,13.48
+6,4,9,Male,38,city,I used the word city correctly in this sentence.,11.66
+6,4,9,Male,39,country,I used the word country correctly in this sentence.,13.04
+6,4,9,Male,40,language,I used the word language correctly in this sentence.,5.16
+6,4,9,Male,41,breakfast,I used the word breakfast correctly in this sentence.,11.95
+6,4,9,Male,42,dinner,I used the word dinner correctly in this sentence.,10.39
+6,4,9,Male,43,chocolate,I used the word chocolate correctly in this sentence.,14.1
+6,4,9,Male,44,science,I used the word science correctly in this sentence.,10.66
+6,4,9,Male,45,history,I used the word history correctly in this sentence.,8.07
+6,4,9,Male,46,planet,I used the word planet correctly in this sentence.,7.91
+6,4,9,Male,48,moon,I used the word moon correctly in this sentence.,7.88
+6,4,9,Male,49,earth,I used the word earth correctly in this sentence.,10.51
+6,4,9,Male,50,sun,I used the word sun correctly in this sentence.,13.82
+6,4,9,Male,51,camera,I used the word camera correctly in this sentence.,6.19
+6,4,9,Male,52,telephone,I used the word telephone correctly in this sentence.,9.42
+6,4,9,Male,53,television,I used the word television correctly in this sentence.,5.46
+6,4,9,Male,55,book,I used the word book correctly in this sentence.,12.04
+6,4,9,Male,56,basketball,I used the word basketball correctly in this sentence.,7.64
+6,4,9,Male,57,baseball,I used the word baseball correctly in this sentence.,6.67
+6,4,9,Male,58,tennis,I used the word tennis correctly in this sentence.,12.51
+6,4,9,Male,59,hockey,I used the word hockey correctly in this sentence.,7.94
+6,4,9,Male,60,dance,I used the word dance correctly in this sentence.,13.49
+7,4,9,Male,1,because,I used the word because correctly in this sentence.,9.88
+7,4,9,Male,2,beautiful,I used the word beautiful correctly in this sentence.,14.75
+7,4,9,Male,3,quickly,I used the word quickly correctly in this sentence.,13.96
+7,4,9,Male,6,family,I used the word family correctly in this sentence.,14.82
+7,4,9,Male,8,animal,I used the word animal correctly in this sentence.,10.9
+7,4,9,Male,11,summer,I used the word summer correctly in this sentence.,7.54
+7,4,9,Male,12,winter,I used the word winter correctly in this sentence.,8.29
+7,4,9,Male,13,mountain,I used the word mountain correctly in this sentence.,7.11
+7,4,9,Male,14,river,I used the word river correctly in this sentence.,8.58
+7,4,9,Male,15,delicious,I used the word delicious correctly in this sentence.,9.69
+7,4,9,Male,16,tired,I used the word tired correctly in this sentence.,6.04
+7,4,9,Male,19,library,I used the word library correctly in this sentence.,6.02
+7,4,9,Male,20,birthday,I used the word birthday correctly in this sentence.,11.54
+7,4,9,Male,21,teacher,I used the word teacher correctly in this sentence.,11.11
+7,4,9,Male,22,computer,I used the word computer correctly in this sentence.,14.09
+7,4,9,Male,23,pencil,I used the word pencil correctly in this sentence.,7.38
+7,4,9,Male,26,painting,I used the word painting correctly in this sentence.,5.31
+7,4,9,Male,27,ocean,I used the word ocean correctly in this sentence.,10.03
+7,4,9,Male,31,castle,I used the word castle correctly in this sentence.,10.37
+7,4,9,Male,32,bridge,I used the word bridge correctly in this sentence.,12.65
+7,4,9,Male,33,island,I used the word island correctly in this sentence.,14.49
+7,4,9,Male,36,market,I used the word market correctly in this sentence.,11.54
+7,4,9,Male,37,village,I used the word village correctly in this sentence.,14.43
+7,4,9,Male,38,city,I used the word city correctly in this sentence.,7.29
+7,4,9,Male,41,breakfast,I used the word breakfast correctly in this sentence.,11.69
+7,4,9,Male,42,dinner,I used the word dinner correctly in this sentence.,5.4
+7,4,9,Male,43,chocolate,I used the word chocolate correctly in this sentence.,8.27
+7,4,9,Male,44,science,I used the word science correctly in this sentence.,5.9
+7,4,9,Male,46,planet,I used the word planet correctly in this sentence.,7.97
+7,4,9,Male,47,star,I used the word star correctly in this sentence.,10.94
+7,4,9,Male,48,moon,I used the word moon correctly in this sentence.,14.16
+7,4,9,Male,51,camera,I used the word camera correctly in this sentence.,8.14
+7,4,9,Male,52,telephone,I used the word telephone correctly in this sentence.,9.22
+7,4,9,Male,53,television,I used the word television correctly in this sentence.,12.29
+7,4,9,Male,55,book,I used the word book correctly in this sentence.,10.19
+7,4,9,Male,56,basketball,I used the word basketball correctly in this sentence.,8.64
+7,4,9,Male,57,baseball,I used the word baseball correctly in this sentence.,9.1
+7,4,9,Male,58,tennis,I used the word tennis correctly in this sentence.,6.28
+7,4,9,Male,60,dance,I used the word dance correctly in this sentence.,14.88
+8,5,11,Female,1,because,I am hapy because day.,31.79
+8,5,11,Female,2,beautiful,The beautiful is fun.,30.31
+8,5,11,Female,4,friend,The friend is fun.,29.89
+8,5,11,Female,5,school,The school is fun.,30.91
+8,5,11,Female,6,family,I am hapy family day.,31.82
+8,5,11,Female,7,happy,I am hapy happy day.,21.86
+8,5,11,Female,8,animal,The animal is fun.,39.38
+8,5,11,Female,9,garden,The garden is fun.,21.3
+8,5,11,Female,10,favorite,I am hapy favorite day.,21.85
+8,5,11,Female,11,summer,I am hapy summer day.,38.63
+8,5,11,Female,12,winter,The winter is fun.,23.02
+8,5,11,Female,14,river,The river is fun.,29.38
+8,5,11,Female,15,delicious,I am hapy delicious day.,35.08
+8,5,11,Female,17,excited,The excited is fun.,34.38
+8,5,11,Female,18,football,The football is fun.,33.16
+8,5,11,Female,19,library,The library is fun.,28.82
+8,5,11,Female,20,birthday,I am hapy birthday day.,23.88
+8,5,11,Female,21,teacher,I am hapy teacher day.,38.29
+8,5,11,Female,23,pencil,The pencil is fun.,26.16
+8,5,11,Female,24,music,I am hapy music day.,34.0
+8,5,11,Female,27,ocean,The ocean is fun.,32.5
+8,5,11,Female,28,storm,The storm is fun.,36.32
+8,5,11,Female,29,snow,I am hapy snow day.,25.35
+8,5,11,Female,30,desert,The desert is fun.,28.82
+8,5,11,Female,31,castle,I am hapy castle day.,20.83
+8,5,11,Female,32,bridge,I am hapy bridge day.,32.39
+8,5,11,Female,33,island,I am hapy island day.,36.38
+8,5,11,Female,34,train,I am hapy train day.,38.53
+8,5,11,Female,35,airplane,I am hapy airplane day.,25.86
+8,5,11,Female,36,market,I am hapy market day.,30.5
+8,5,11,Female,38,city,I am hapy city day.,28.02
+8,5,11,Female,40,language,I am hapy language day.,29.21
+8,5,11,Female,41,breakfast,I am hapy breakfast day.,22.62
+8,5,11,Female,44,science,I am hapy science day.,22.11
+8,5,11,Female,45,history,I am hapy history day.,27.29
+8,5,11,Female,49,earth,The earth is fun.,37.4
+8,5,11,Female,51,camera,The camera is fun.,32.12
+8,5,11,Female,52,telephone,The telephone is fun.,30.48
+8,5,11,Female,53,television,I am hapy television day.,24.36
+8,5,11,Female,54,robot,I am hapy robot day.,35.75
+8,5,11,Female,55,book,I am hapy book day.,25.29
+8,5,11,Female,56,basketball,The basketball is fun.,26.54
+8,5,11,Female,57,baseball,I am hapy baseball day.,24.88
+8,5,11,Female,58,tennis,I am hapy tennis day.,38.62
+8,5,11,Female,60,dance,I am hapy dance day.,33.72
+9,5,11,Male,1,because,My because is nice.,24.68
+9,5,11,Male,2,beautiful,My beautiful is nice.,20.91
+9,5,11,Male,3,quickly,My quickly is nice.,20.47
+9,5,11,Male,4,friend,My friend is nice.,11.02
+9,5,11,Male,5,school,I go to skool every day school.,15.97
+9,5,11,Male,6,family,My family is nice.,12.06
+9,5,11,Male,7,happy,My happy is nice.,24.18
+9,5,11,Male,8,animal,I go to skool every day animal.,22.06
+9,5,11,Male,9,garden,My garden is nice.,22.11
+9,5,11,Male,10,favorite,My favorite is nice.,14.25
+9,5,11,Male,11,summer,My summer is nice.,19.7
+9,5,11,Male,12,winter,I go to skool every day winter.,24.66
+9,5,11,Male,13,mountain,My mountain is nice.,24.97
+9,5,11,Male,14,river,I go to skool every day river.,20.42
+9,5,11,Male,15,delicious,My delicious is nice.,18.26
+9,5,11,Male,16,tired,My tired is nice.,10.47
+9,5,11,Male,17,excited,My excited is nice.,21.41
+9,5,11,Male,18,football,I go to skool every day football.,20.27
+9,5,11,Male,19,library,I go to skool every day library.,23.55
+9,5,11,Male,20,birthday,I go to skool every day birthday.,17.07
+9,5,11,Male,21,teacher,My teacher is nice.,14.38
+9,5,11,Male,22,computer,My computer is nice.,24.72
+9,5,11,Male,23,pencil,My pencil is nice.,19.18
+9,5,11,Male,24,music,My music is nice.,15.26
+9,5,11,Male,25,forest,My forest is nice.,17.7
+9,5,11,Male,26,painting,I go to skool every day painting.,12.2
+9,5,11,Male,27,ocean,I go to skool every day ocean.,20.08
+9,5,11,Male,28,storm,My storm is nice.,16.08
+9,5,11,Male,29,snow,My snow is nice.,10.21
+9,5,11,Male,30,desert,My desert is nice.,16.06
+9,5,11,Male,31,castle,My castle is nice.,21.75
+9,5,11,Male,32,bridge,I go to skool every day bridge.,23.42
+9,5,11,Male,33,island,I go to skool every day island.,14.73
+9,5,11,Male,34,train,My train is nice.,24.75
+9,5,11,Male,35,airplane,I go to skool every day airplane.,24.87
+9,5,11,Male,36,market,I go to skool every day market.,18.93
+9,5,11,Male,37,village,I go to skool every day village.,12.14
+9,5,11,Male,38,city,I go to skool every day city.,12.24
+9,5,11,Male,39,country,I go to skool every day country.,23.54
+9,5,11,Male,40,language,I go to skool every day language.,23.19
+9,5,11,Male,41,breakfast,My breakfast is nice.,15.22
+9,5,11,Male,42,dinner,I go to skool every day dinner.,12.16
+9,5,11,Male,43,chocolate,I go to skool every day chocolate.,18.55
+9,5,11,Male,44,science,My science is nice.,13.41
+9,5,11,Male,45,history,I go to skool every day history.,24.14
+9,5,11,Male,46,planet,My planet is nice.,10.49
+9,5,11,Male,47,star,My star is nice.,23.78
+9,5,11,Male,48,moon,I go to skool every day moon.,22.6
+9,5,11,Male,49,earth,My earth is nice.,11.8
+9,5,11,Male,50,sun,My sun is nice.,22.97
+9,5,11,Male,51,camera,My camera is nice.,12.62
+9,5,11,Male,52,telephone,I go to skool every day telephone.,17.77
+9,5,11,Male,53,television,My television is nice.,15.84
+9,5,11,Male,54,robot,My robot is nice.,17.58
+9,5,11,Male,55,book,I go to skool every day book.,17.27
+9,5,11,Male,56,basketball,My basketball is nice.,11.69
+9,5,11,Male,57,baseball,My baseball is nice.,17.46
+9,5,11,Male,58,tennis,I go to skool every day tennis.,10.27
+9,5,11,Male,59,hockey,My hockey is nice.,18.29
+9,5,11,Male,60,dance,My dance is nice.,17.25
+10,5,11,Female,1,because,The because is fun.,25.85
+10,5,11,Female,2,beautiful,The beautiful is fun.,23.13
+10,5,11,Female,3,quickly,I am hapy quickly day.,28.17
+10,5,11,Female,4,friend,I am hapy friend day.,25.91
+10,5,11,Female,5,school,The school is fun.,29.55
+10,5,11,Female,6,family,The family is fun.,21.48
+10,5,11,Female,7,happy,I am hapy happy day.,20.79
+10,5,11,Female,9,garden,I am hapy garden day.,39.51
+10,5,11,Female,10,favorite,The favorite is fun.,21.96
+10,5,11,Female,11,summer,I am hapy summer day.,33.81
+10,5,11,Female,12,winter,The winter is fun.,39.77
+10,5,11,Female,13,mountain,I am hapy mountain day.,20.15
+10,5,11,Female,14,river,I am hapy river day.,39.55
+10,5,11,Female,15,delicious,I am hapy delicious day.,36.57
+10,5,11,Female,16,tired,I am hapy tired day.,25.21
+10,5,11,Female,17,excited,The excited is fun.,37.2
+10,5,11,Female,18,football,The football is fun.,30.9
+10,5,11,Female,19,library,I am hapy library day.,35.34
+10,5,11,Female,20,birthday,The birthday is fun.,20.13
+10,5,11,Female,21,teacher,I am hapy teacher day.,20.63
+10,5,11,Female,22,computer,I am hapy computer day.,26.38
+10,5,11,Female,23,pencil,The pencil is fun.,38.36
+10,5,11,Female,24,music,I am hapy music day.,27.28
+10,5,11,Female,25,forest,I am hapy forest day.,38.71
+10,5,11,Female,26,painting,I am hapy painting day.,24.44
+10,5,11,Female,27,ocean,I am hapy ocean day.,32.76
+10,5,11,Female,28,storm,I am hapy storm day.,36.78
+10,5,11,Female,29,snow,I am hapy snow day.,29.86
+10,5,11,Female,30,desert,I am hapy desert day.,26.23
+10,5,11,Female,31,castle,I am hapy castle day.,32.8
+10,5,11,Female,32,bridge,The bridge is fun.,33.75
+10,5,11,Female,33,island,I am hapy island day.,24.8
+10,5,11,Female,34,train,I am hapy train day.,24.36
+10,5,11,Female,35,airplane,I am hapy airplane day.,33.67
+10,5,11,Female,36,market,The market is fun.,38.28
+10,5,11,Female,37,village,I am hapy village day.,27.82
+10,5,11,Female,38,city,I am hapy city day.,25.85
+10,5,11,Female,39,country,The country is fun.,25.06
+10,5,11,Female,40,language,I am hapy language day.,23.17
+10,5,11,Female,41,breakfast,I am hapy breakfast day.,24.23
+10,5,11,Female,42,dinner,I am hapy dinner day.,36.46
+10,5,11,Female,43,chocolate,The chocolate is fun.,36.06
+10,5,11,Female,44,science,I am hapy science day.,29.53
+10,5,11,Female,45,history,I am hapy history day.,23.04
+10,5,11,Female,46,planet,I am hapy planet day.,32.44
+10,5,11,Female,47,star,I am hapy star day.,25.55
+10,5,11,Female,49,earth,I am hapy earth day.,30.85
+10,5,11,Female,50,sun,I am hapy sun day.,31.69
+10,5,11,Female,51,camera,I am hapy camera day.,22.04
+10,5,11,Female,52,telephone,I am hapy telephone day.,33.85
+10,5,11,Female,53,television,I am hapy television day.,25.41
+10,5,11,Female,54,robot,I am hapy robot day.,27.49
+10,5,11,Female,55,book,I am hapy book day.,21.81
+10,5,11,Female,56,basketball,I am hapy basketball day.,38.58
+10,5,11,Female,57,baseball,I am hapy baseball day.,39.39
+10,5,11,Female,58,tennis,I am hapy tennis day.,29.04
+10,5,11,Female,59,hockey,I am hapy hockey day.,28.88
+10,5,11,Female,60,dance,The dance is fun.,26.91
+11,6,11,Male,2,beautiful,The beautiful is fun.,33.78
+11,6,11,Male,3,quickly,I am hapy quickly day.,24.4
+11,6,11,Male,4,friend,I am hapy friend day.,33.71
+11,6,11,Male,5,school,I am hapy school day.,22.06
+11,6,11,Male,7,happy,I am hapy happy day.,32.41
+11,6,11,Male,8,animal,The animal is fun.,27.89
+11,6,11,Male,13,mountain,I am hapy mountain day.,28.92
+11,6,11,Male,14,river,The river is fun.,34.54
+11,6,11,Male,18,football,I am hapy football day.,26.56
+11,6,11,Male,19,library,The library is fun.,35.25
+11,6,11,Male,23,pencil,I am hapy pencil day.,26.72
+11,6,11,Male,26,painting,I am hapy painting day.,37.59
+11,6,11,Male,30,desert,I am hapy desert day.,37.62
+11,6,11,Male,31,castle,The castle is fun.,32.81
+11,6,11,Male,33,island,I am hapy island day.,28.61
+11,6,11,Male,37,village,The village is fun.,34.72
+11,6,11,Male,38,city,I am hapy city day.,25.1
+11,6,11,Male,43,chocolate,I am hapy chocolate day.,35.09
+11,6,11,Male,44,science,I am hapy science day.,31.96
+11,6,11,Male,46,planet,The planet is fun.,25.19
+11,6,11,Male,49,earth,I am hapy earth day.,22.61
+11,6,11,Male,50,sun,I am hapy sun day.,29.47
+11,6,11,Male,52,telephone,I am hapy telephone day.,29.7
+11,6,11,Male,57,baseball,I am hapy baseball day.,38.58
+11,6,11,Male,60,dance,I am hapy dance day.,31.12
+12,4,10,Male,1,because,I go to skool every day because.,24.48
+12,4,10,Male,7,happy,My happy is nice.,19.44
+12,4,10,Male,8,animal,I go to skool every day animal.,24.05
+12,4,10,Male,11,summer,My summer is nice.,10.77
+12,4,10,Male,14,river,I go to skool every day river.,15.02
+12,4,10,Male,15,delicious,My delicious is nice.,16.57
+12,4,10,Male,16,tired,My tired is nice.,10.72
+12,4,10,Male,17,excited,I go to skool every day excited.,16.86
+12,4,10,Male,18,football,My football is nice.,10.16
+12,4,10,Male,19,library,My library is nice.,11.97
+12,4,10,Male,21,teacher,My teacher is nice.,20.92
+12,4,10,Male,23,pencil,I go to skool every day pencil.,20.08
+12,4,10,Male,24,music,My music is nice.,24.18
+12,4,10,Male,25,forest,My forest is nice.,14.45
+12,4,10,Male,26,painting,My painting is nice.,16.12
+12,4,10,Male,27,ocean,I go to skool every day ocean.,11.44
+12,4,10,Male,28,storm,My storm is nice.,13.4
+12,4,10,Male,30,desert,My desert is nice.,11.61
+12,4,10,Male,31,castle,I go to skool every day castle.,17.98
+12,4,10,Male,32,bridge,My bridge is nice.,18.24
+12,4,10,Male,33,island,My island is nice.,11.61
+12,4,10,Male,36,market,My market is nice.,23.01
+12,4,10,Male,37,village,My village is nice.,14.46
+12,4,10,Male,38,city,I go to skool every day city.,13.33
+12,4,10,Male,39,country,My country is nice.,24.56
+12,4,10,Male,40,language,I go to skool every day language.,14.38
+12,4,10,Male,42,dinner,My dinner is nice.,18.31
+12,4,10,Male,43,chocolate,My chocolate is nice.,16.05
+12,4,10,Male,44,science,My science is nice.,19.98
+12,4,10,Male,45,history,My history is nice.,18.13
+12,4,10,Male,46,planet,I go to skool every day planet.,15.85
+12,4,10,Male,47,star,My star is nice.,11.65
+12,4,10,Male,48,moon,My moon is nice.,10.52
+12,4,10,Male,50,sun,My sun is nice.,15.21
+12,4,10,Male,51,camera,My camera is nice.,13.55
+12,4,10,Male,56,basketball,I go to skool every day basketball.,15.7
+12,4,10,Male,59,hockey,My hockey is nice.,22.73
+12,4,10,Male,60,dance,My dance is nice.,18.29
+13,6,12,Female,1,because,I am hapy because day.,32.23
+13,6,12,Female,2,beautiful,I am hapy beautiful day.,23.49
+13,6,12,Female,4,friend,I am hapy friend day.,34.74
+13,6,12,Female,6,family,I am hapy family day.,20.47
+13,6,12,Female,7,happy,The happy is fun.,33.63
+13,6,12,Female,8,animal,The animal is fun.,35.64
+13,6,12,Female,9,garden,The garden is fun.,37.6
+13,6,12,Female,10,favorite,I am hapy favorite day.,24.47
+13,6,12,Female,11,summer,I am hapy summer day.,35.05
+13,6,12,Female,12,winter,I am hapy winter day.,21.31
+13,6,12,Female,13,mountain,The mountain is fun.,28.9
+13,6,12,Female,14,river,I am hapy river day.,32.53
+13,6,12,Female,16,tired,I am hapy tired day.,29.45
+13,6,12,Female,18,football,I am hapy football day.,25.41
+13,6,12,Female,19,library,I am hapy library day.,38.61
+13,6,12,Female,20,birthday,I am hapy birthday day.,24.07
+13,6,12,Female,22,computer,The computer is fun.,39.23
+13,6,12,Female,23,pencil,I am hapy pencil day.,28.74
+13,6,12,Female,24,music,The music is fun.,26.21
+13,6,12,Female,25,forest,I am hapy forest day.,23.96
+13,6,12,Female,26,painting,I am hapy painting day.,21.52
+13,6,12,Female,27,ocean,I am hapy ocean day.,38.67
+13,6,12,Female,28,storm,I am hapy storm day.,25.83
+13,6,12,Female,29,snow,The snow is fun.,35.98
+13,6,12,Female,30,desert,The desert is fun.,25.11
+13,6,12,Female,33,island,The island is fun.,38.52
+13,6,12,Female,34,train,The train is fun.,24.25
+13,6,12,Female,37,village,I am hapy village day.,33.95
+13,6,12,Female,39,country,The country is fun.,30.02
+13,6,12,Female,40,language,I am hapy language day.,24.4
+13,6,12,Female,41,breakfast,I am hapy breakfast day.,39.56
+13,6,12,Female,42,dinner,I am hapy dinner day.,37.82
+13,6,12,Female,43,chocolate,The chocolate is fun.,36.92
+13,6,12,Female,44,science,I am hapy science day.,27.51
+13,6,12,Female,45,history,I am hapy history day.,23.56
+13,6,12,Female,46,planet,I am hapy planet day.,33.15
+13,6,12,Female,49,earth,I am hapy earth day.,31.61
+13,6,12,Female,50,sun,I am hapy sun day.,24.65
+13,6,12,Female,51,camera,The camera is fun.,35.41
+13,6,12,Female,52,telephone,I am hapy telephone day.,20.21
+13,6,12,Female,53,television,I am hapy television day.,38.56
+13,6,12,Female,54,robot,The robot is fun.,22.92
+13,6,12,Female,55,book,I am hapy book day.,28.2
+13,6,12,Female,56,basketball,I am hapy basketball day.,26.85
+13,6,12,Female,57,baseball,I am hapy baseball day.,32.75
+13,6,12,Female,58,tennis,The tennis is fun.,34.56
+13,6,12,Female,59,hockey,I am hapy hockey day.,33.68
+14,4,10,Female,1,because,I used the word because correctly in this sentence.,14.29
+14,4,10,Female,3,quickly,I used the word quickly correctly in this sentence.,14.38
+14,4,10,Female,4,friend,I used the word friend correctly in this sentence.,10.97
+14,4,10,Female,6,family,I used the word family correctly in this sentence.,5.45
+14,4,10,Female,12,winter,I used the word winter correctly in this sentence.,13.25
+14,4,10,Female,13,mountain,I used the word mountain correctly in this sentence.,9.66
+14,4,10,Female,14,river,I used the word river correctly in this sentence.,6.59
+14,4,10,Female,18,football,I used the word football correctly in this sentence.,12.81
+14,4,10,Female,27,ocean,I used the word ocean correctly in this sentence.,8.01
+14,4,10,Female,28,storm,I used the word storm correctly in this sentence.,14.22
+14,4,10,Female,30,desert,I used the word desert correctly in this sentence.,6.85
+14,4,10,Female,31,castle,I used the word castle correctly in this sentence.,13.93
+14,4,10,Female,32,bridge,I used the word bridge correctly in this sentence.,10.48
+14,4,10,Female,33,island,I used the word island correctly in this sentence.,7.77
+14,4,10,Female,34,train,I used the word train correctly in this sentence.,6.63
+14,4,10,Female,36,market,I used the word market correctly in this sentence.,12.05
+14,4,10,Female,38,city,I used the word city correctly in this sentence.,6.04
+14,4,10,Female,41,breakfast,I used the word breakfast correctly in this sentence.,13.0
+14,4,10,Female,42,dinner,I used the word dinner correctly in this sentence.,9.3
+14,4,10,Female,43,chocolate,I used the word chocolate correctly in this sentence.,13.02
+14,4,10,Female,44,science,I used the word science correctly in this sentence.,13.72
+14,4,10,Female,51,camera,I used the word camera correctly in this sentence.,10.23
+14,4,10,Female,52,telephone,I used the word telephone correctly in this sentence.,14.14
+14,4,10,Female,54,robot,I used the word robot correctly in this sentence.,12.08
+14,4,10,Female,56,basketball,I used the word basketball correctly in this sentence.,12.3
+14,4,10,Female,60,dance,I used the word dance correctly in this sentence.,9.52
+15,3,9,Male,6,family,I used the word family correctly in this sentence.,13.98
+15,3,9,Male,7,happy,I used the word happy correctly in this sentence.,14.05
+15,3,9,Male,8,animal,I used the word animal correctly in this sentence.,10.09
+15,3,9,Male,9,garden,I used the word garden correctly in this sentence.,7.89
+15,3,9,Male,10,favorite,I used the word favorite correctly in this sentence.,11.2
+15,3,9,Male,11,summer,I used the word summer correctly in this sentence.,13.7
+15,3,9,Male,12,winter,I used the word winter correctly in this sentence.,7.68
+15,3,9,Male,15,delicious,I used the word delicious correctly in this sentence.,14.0
+15,3,9,Male,19,library,I used the word library correctly in this sentence.,6.15
+15,3,9,Male,20,birthday,I used the word birthday correctly in this sentence.,7.38
+15,3,9,Male,22,computer,I used the word computer correctly in this sentence.,5.41
+15,3,9,Male,23,pencil,I used the word pencil correctly in this sentence.,12.47
+15,3,9,Male,24,music,I used the word music correctly in this sentence.,10.14
+15,3,9,Male,26,painting,I used the word painting correctly in this sentence.,10.48
+15,3,9,Male,29,snow,I used the word snow correctly in this sentence.,12.15
+15,3,9,Male,30,desert,I used the word desert correctly in this sentence.,5.8
+15,3,9,Male,31,castle,I used the word castle correctly in this sentence.,13.95
+15,3,9,Male,32,bridge,I used the word bridge correctly in this sentence.,11.7
+15,3,9,Male,33,island,I used the word island correctly in this sentence.,13.02
+15,3,9,Male,35,airplane,I used the word airplane correctly in this sentence.,7.87
+15,3,9,Male,36,market,I used the word market correctly in this sentence.,12.97
+15,3,9,Male,38,city,I used the word city correctly in this sentence.,8.74
+15,3,9,Male,40,language,I used the word language correctly in this sentence.,13.45
+15,3,9,Male,41,breakfast,I used the word breakfast correctly in this sentence.,9.05
+15,3,9,Male,43,chocolate,I used the word chocolate correctly in this sentence.,10.89
+15,3,9,Male,45,history,I used the word history correctly in this sentence.,7.51
+15,3,9,Male,48,moon,I used the word moon correctly in this sentence.,8.45
+15,3,9,Male,55,book,I used the word book correctly in this sentence.,5.21
+15,3,9,Male,56,basketball,I used the word basketball correctly in this sentence.,5.36
+15,3,9,Male,57,baseball,I used the word baseball correctly in this sentence.,9.8
+15,3,9,Male,58,tennis,I used the word tennis correctly in this sentence.,5.32
+15,3,9,Male,59,hockey,I used the word hockey correctly in this sentence.,14.47
+16,5,11,Male,1,because,My because is nice.,10.17
+16,5,11,Male,3,quickly,My quickly is nice.,14.38
+16,5,11,Male,4,friend,I go to skool every day friend.,12.7
+16,5,11,Male,5,school,I go to skool every day school.,16.46
+16,5,11,Male,7,happy,I go to skool every day happy.,23.86
+16,5,11,Male,9,garden,I go to skool every day garden.,15.58
+16,5,11,Male,10,favorite,My favorite is nice.,23.37
+16,5,11,Male,11,summer,My summer is nice.,13.03
+16,5,11,Male,12,winter,My winter is nice.,18.22
+16,5,11,Male,15,delicious,My delicious is nice.,17.18
+16,5,11,Male,16,tired,My tired is nice.,13.21
+16,5,11,Male,20,birthday,My birthday is nice.,20.08
+16,5,11,Male,21,teacher,My teacher is nice.,24.74
+16,5,11,Male,22,computer,My computer is nice.,11.48
+16,5,11,Male,23,pencil,I go to skool every day pencil.,14.8
+16,5,11,Male,25,forest,My forest is nice.,13.22
+16,5,11,Male,30,desert,My desert is nice.,20.83
+16,5,11,Male,31,castle,I go to skool every day castle.,19.73
+16,5,11,Male,33,island,My island is nice.,23.1
+16,5,11,Male,34,train,My train is nice.,20.8
+16,5,11,Male,35,airplane,My airplane is nice.,17.3
+16,5,11,Male,37,village,My village is nice.,16.68
+16,5,11,Male,38,city,My city is nice.,15.63
+16,5,11,Male,43,chocolate,My chocolate is nice.,12.2
+16,5,11,Male,44,science,My science is nice.,23.6
+16,5,11,Male,45,history,My history is nice.,12.43
+16,5,11,Male,46,planet,My planet is nice.,20.31
+16,5,11,Male,48,moon,My moon is nice.,13.25
+16,5,11,Male,49,earth,I go to skool every day earth.,24.86
+16,5,11,Male,52,telephone,My telephone is nice.,24.34
+16,5,11,Male,53,television,I go to skool every day television.,24.73
+16,5,11,Male,54,robot,My robot is nice.,10.73
+16,5,11,Male,55,book,My book is nice.,14.36
+16,5,11,Male,56,basketball,My basketball is nice.,10.38
+16,5,11,Male,57,baseball,My baseball is nice.,20.52
+17,4,9,Male,1,because,My because is nice.,16.94
+17,4,9,Male,2,beautiful,My beautiful is nice.,21.08
+17,4,9,Male,3,quickly,I go to skool every day quickly.,12.66
+17,4,9,Male,4,friend,I go to skool every day friend.,24.98
+17,4,9,Male,5,school,My school is nice.,15.59
+17,4,9,Male,6,family,My family is nice.,12.69
+17,4,9,Male,7,happy,My happy is nice.,13.59
+17,4,9,Male,8,animal,My animal is nice.,19.14
+17,4,9,Male,9,garden,I go to skool every day garden.,22.92
+17,4,9,Male,10,favorite,My favorite is nice.,14.89
+17,4,9,Male,11,summer,My summer is nice.,15.95
+17,4,9,Male,12,winter,My winter is nice.,13.79
+17,4,9,Male,13,mountain,My mountain is nice.,13.93
+17,4,9,Male,14,river,My river is nice.,11.34
+17,4,9,Male,15,delicious,My delicious is nice.,17.0
+17,4,9,Male,16,tired,I go to skool every day tired.,10.41
+17,4,9,Male,17,excited,My excited is nice.,18.77
+17,4,9,Male,18,football,I go to skool every day football.,19.24
+17,4,9,Male,19,library,My library is nice.,21.01
+17,4,9,Male,20,birthday,My birthday is nice.,11.46
+17,4,9,Male,21,teacher,I go to skool every day teacher.,14.89
+17,4,9,Male,22,computer,My computer is nice.,12.09
+17,4,9,Male,23,pencil,My pencil is nice.,23.55
+17,4,9,Male,24,music,My music is nice.,11.27
+17,4,9,Male,25,forest,My forest is nice.,18.52
+17,4,9,Male,26,painting,My painting is nice.,13.71
+17,4,9,Male,27,ocean,My ocean is nice.,11.18
+17,4,9,Male,28,storm,My storm is nice.,14.12
+17,4,9,Male,29,snow,My snow is nice.,16.48
+17,4,9,Male,30,desert,I go to skool every day desert.,13.29
+17,4,9,Male,31,castle,I go to skool every day castle.,24.17
+17,4,9,Male,32,bridge,I go to skool every day bridge.,12.06
+17,4,9,Male,33,island,My island is nice.,23.86
+17,4,9,Male,34,train,I go to skool every day train.,14.34
+17,4,9,Male,35,airplane,My airplane is nice.,12.16
+17,4,9,Male,36,market,My market is nice.,19.27
+17,4,9,Male,37,village,I go to skool every day village.,10.64
+17,4,9,Male,38,city,My city is nice.,10.24
+17,4,9,Male,39,country,My country is nice.,15.65
+17,4,9,Male,40,language,I go to skool every day language.,10.95
+17,4,9,Male,41,breakfast,I go to skool every day breakfast.,15.41
+17,4,9,Male,42,dinner,My dinner is nice.,22.14
+17,4,9,Male,43,chocolate,My chocolate is nice.,11.53
+17,4,9,Male,44,science,My science is nice.,21.51
+17,4,9,Male,45,history,My history is nice.,18.47
+17,4,9,Male,46,planet,My planet is nice.,13.09
+17,4,9,Male,47,star,I go to skool every day star.,20.17
+17,4,9,Male,48,moon,My moon is nice.,24.7
+17,4,9,Male,49,earth,My earth is nice.,14.2
+17,4,9,Male,50,sun,My sun is nice.,23.74
+17,4,9,Male,51,camera,My camera is nice.,12.17
+17,4,9,Male,52,telephone,My telephone is nice.,17.44
+17,4,9,Male,53,television,My television is nice.,13.68
+17,4,9,Male,54,robot,My robot is nice.,19.64
+17,4,9,Male,55,book,My book is nice.,21.57
+17,4,9,Male,56,basketball,I go to skool every day basketball.,13.06
+17,4,9,Male,57,baseball,My baseball is nice.,10.32
+17,4,9,Male,58,tennis,My tennis is nice.,18.63
+17,4,9,Male,59,hockey,My hockey is nice.,17.04
+17,4,9,Male,60,dance,My dance is nice.,23.35
+18,5,11,Female,1,because,I used the word because correctly in this sentence.,11.0
+18,5,11,Female,2,beautiful,I used the word beautiful correctly in this sentence.,14.84
+18,5,11,Female,3,quickly,I used the word quickly correctly in this sentence.,13.18
+18,5,11,Female,6,family,I used the word family correctly in this sentence.,13.09
+18,5,11,Female,7,happy,I used the word happy correctly in this sentence.,5.75
+18,5,11,Female,9,garden,I used the word garden correctly in this sentence.,13.8
+18,5,11,Female,10,favorite,I used the word favorite correctly in this sentence.,11.26
+18,5,11,Female,14,river,I used the word river correctly in this sentence.,7.95
+18,5,11,Female,16,tired,I used the word tired correctly in this sentence.,8.06
+18,5,11,Female,17,excited,I used the word excited correctly in this sentence.,5.93
+18,5,11,Female,18,football,I used the word football correctly in this sentence.,8.97
+18,5,11,Female,19,library,I used the word library correctly in this sentence.,10.0
+18,5,11,Female,20,birthday,I used the word birthday correctly in this sentence.,12.32
+18,5,11,Female,21,teacher,I used the word teacher correctly in this sentence.,7.42
+18,5,11,Female,22,computer,I used the word computer correctly in this sentence.,5.4
+18,5,11,Female,26,painting,I used the word painting correctly in this sentence.,8.9
+18,5,11,Female,27,ocean,I used the word ocean correctly in this sentence.,13.73
+18,5,11,Female,29,snow,I used the word snow correctly in this sentence.,6.13
+18,5,11,Female,30,desert,I used the word desert correctly in this sentence.,12.79
+18,5,11,Female,31,castle,I used the word castle correctly in this sentence.,12.8
+18,5,11,Female,33,island,I used the word island correctly in this sentence.,14.63
+18,5,11,Female,36,market,I used the word market correctly in this sentence.,14.06
+18,5,11,Female,37,village,I used the word village correctly in this sentence.,8.69
+18,5,11,Female,38,city,I used the word city correctly in this sentence.,5.3
+18,5,11,Female,39,country,I used the word country correctly in this sentence.,13.31
+18,5,11,Female,41,breakfast,I used the word breakfast correctly in this sentence.,9.03
+18,5,11,Female,42,dinner,I used the word dinner correctly in this sentence.,14.89
+18,5,11,Female,43,chocolate,I used the word chocolate correctly in this sentence.,14.81
+18,5,11,Female,44,science,I used the word science correctly in this sentence.,14.22
+18,5,11,Female,45,history,I used the word history correctly in this sentence.,10.34
+18,5,11,Female,46,planet,I used the word planet correctly in this sentence.,5.36
+18,5,11,Female,48,moon,I used the word moon correctly in this sentence.,10.36
+18,5,11,Female,51,camera,I used the word camera correctly in this sentence.,12.67
+18,5,11,Female,52,telephone,I used the word telephone correctly in this sentence.,5.05
+18,5,11,Female,53,television,I used the word television correctly in this sentence.,9.83
+18,5,11,Female,54,robot,I used the word robot correctly in this sentence.,9.09
+18,5,11,Female,55,book,I used the word book correctly in this sentence.,11.04
+18,5,11,Female,58,tennis,I used the word tennis correctly in this sentence.,14.02
+18,5,11,Female,60,dance,I used the word dance correctly in this sentence.,9.31
+19,4,10,Female,1,because,The because is fun.,28.32
+19,4,10,Female,2,beautiful,The beautiful is fun.,21.15
+19,4,10,Female,3,quickly,I am hapy quickly day.,29.8
+19,4,10,Female,4,friend,I am hapy friend day.,24.11
+19,4,10,Female,5,school,The school is fun.,20.29
+19,4,10,Female,6,family,The family is fun.,35.0
+19,4,10,Female,7,happy,I am hapy happy day.,23.64
+19,4,10,Female,8,animal,I am hapy animal day.,28.28
+19,4,10,Female,9,garden,I am hapy garden day.,34.97
+19,4,10,Female,10,favorite,I am hapy favorite day.,33.87
+19,4,10,Female,11,summer,I am hapy summer day.,38.78
+19,4,10,Female,12,winter,The winter is fun.,28.39
+19,4,10,Female,13,mountain,I am hapy mountain day.,39.8
+19,4,10,Female,14,river,The river is fun.,34.71
+19,4,10,Female,15,delicious,I am hapy delicious day.,24.46
+19,4,10,Female,16,tired,I am hapy tired day.,39.19
+19,4,10,Female,17,excited,I am hapy excited day.,37.56
+19,4,10,Female,18,football,I am hapy football day.,20.58
+19,4,10,Female,19,library,I am hapy library day.,22.57
+19,4,10,Female,21,teacher,I am hapy teacher day.,28.98
+19,4,10,Female,22,computer,I am hapy computer day.,31.42
+19,4,10,Female,23,pencil,The pencil is fun.,23.62
+19,4,10,Female,24,music,I am hapy music day.,36.09
+19,4,10,Female,25,forest,The forest is fun.,37.57
+19,4,10,Female,26,painting,I am hapy painting day.,25.74
+19,4,10,Female,27,ocean,I am hapy ocean day.,36.94
+19,4,10,Female,28,storm,I am hapy storm day.,35.84
+19,4,10,Female,29,snow,I am hapy snow day.,23.52
+19,4,10,Female,30,desert,The desert is fun.,36.9
+19,4,10,Female,31,castle,The castle is fun.,26.23
+19,4,10,Female,32,bridge,I am hapy bridge day.,25.39
+19,4,10,Female,34,train,The train is fun.,20.37
+19,4,10,Female,37,village,I am hapy village day.,20.28
+19,4,10,Female,38,city,I am hapy city day.,35.57
+19,4,10,Female,39,country,The country is fun.,24.82
+19,4,10,Female,40,language,I am hapy language day.,23.87
+19,4,10,Female,41,breakfast,I am hapy breakfast day.,26.3
+19,4,10,Female,42,dinner,I am hapy dinner day.,35.98
+19,4,10,Female,43,chocolate,The chocolate is fun.,25.29
+19,4,10,Female,44,science,I am hapy science day.,39.32
+19,4,10,Female,45,history,I am hapy history day.,23.5
+19,4,10,Female,46,planet,I am hapy planet day.,20.92
+19,4,10,Female,47,star,I am hapy star day.,35.72
+19,4,10,Female,48,moon,The moon is fun.,21.62
+19,4,10,Female,49,earth,The earth is fun.,30.98
+19,4,10,Female,50,sun,I am hapy sun day.,24.58
+19,4,10,Female,51,camera,I am hapy camera day.,30.23
+19,4,10,Female,52,telephone,The telephone is fun.,22.24
+19,4,10,Female,54,robot,The robot is fun.,35.86
+19,4,10,Female,55,book,The book is fun.,23.94
+19,4,10,Female,56,basketball,I am hapy basketball day.,38.42
+19,4,10,Female,58,tennis,I am hapy tennis day.,31.16
+19,4,10,Female,60,dance,I am hapy dance day.,21.39
+20,3,8,Female,1,because,My because is nice.,16.22
+20,3,8,Female,2,beautiful,My beautiful is nice.,24.44
+20,3,8,Female,4,friend,My friend is nice.,19.8
+20,3,8,Female,7,happy,My happy is nice.,13.9
+20,3,8,Female,9,garden,My garden is nice.,15.19
+20,3,8,Female,10,favorite,My favorite is nice.,22.56
+20,3,8,Female,11,summer,My summer is nice.,21.61
+20,3,8,Female,12,winter,I go to skool every day winter.,22.52
+20,3,8,Female,13,mountain,I go to skool every day mountain.,20.1
+20,3,8,Female,14,river,My river is nice.,23.83
+20,3,8,Female,15,delicious,My delicious is nice.,12.61
+20,3,8,Female,16,tired,My tired is nice.,13.69
+20,3,8,Female,17,excited,My excited is nice.,17.07
+20,3,8,Female,18,football,My football is nice.,19.75
+20,3,8,Female,19,library,My library is nice.,20.07
+20,3,8,Female,20,birthday,I go to skool every day birthday.,24.37
+20,3,8,Female,21,teacher,My teacher is nice.,20.91
+20,3,8,Female,22,computer,My computer is nice.,17.47
+20,3,8,Female,23,pencil,My pencil is nice.,21.79
+20,3,8,Female,24,music,I go to skool every day music.,16.11
+20,3,8,Female,25,forest,I go to skool every day forest.,11.33
+20,3,8,Female,26,painting,I go to skool every day painting.,19.05
+20,3,8,Female,27,ocean,My ocean is nice.,21.67
+20,3,8,Female,29,snow,My snow is nice.,19.29
+20,3,8,Female,30,desert,I go to skool every day desert.,20.88
+20,3,8,Female,31,castle,I go to skool every day castle.,23.56
+20,3,8,Female,32,bridge,My bridge is nice.,22.96
+20,3,8,Female,33,island,I go to skool every day island.,16.4
+20,3,8,Female,35,airplane,My airplane is nice.,11.0
+20,3,8,Female,36,market,My market is nice.,11.56
+20,3,8,Female,37,village,I go to skool every day village.,13.93
+20,3,8,Female,38,city,I go to skool every day city.,11.86
+20,3,8,Female,39,country,I go to skool every day country.,15.44
+20,3,8,Female,40,language,I go to skool every day language.,13.54
+20,3,8,Female,41,breakfast,My breakfast is nice.,10.57
+20,3,8,Female,42,dinner,My dinner is nice.,19.29
+20,3,8,Female,43,chocolate,My chocolate is nice.,19.03
+20,3,8,Female,44,science,My science is nice.,21.04
+20,3,8,Female,46,planet,My planet is nice.,22.21
+20,3,8,Female,48,moon,My moon is nice.,13.67
+20,3,8,Female,49,earth,My earth is nice.,12.45
+20,3,8,Female,50,sun,My sun is nice.,18.04
+20,3,8,Female,51,camera,I go to skool every day camera.,16.58
+20,3,8,Female,53,television,My television is nice.,20.1
+20,3,8,Female,54,robot,My robot is nice.,24.78
+20,3,8,Female,55,book,I go to skool every day book.,14.03
+20,3,8,Female,57,baseball,My baseball is nice.,24.21
+20,3,8,Female,58,tennis,My tennis is nice.,15.75
+20,3,8,Female,59,hockey,I go to skool every day hockey.,10.88
+20,3,8,Female,60,dance,I go to skool every day dance.,18.81
+21,4,9,Female,1,because,The because is fun.,34.46
+21,4,9,Female,2,beautiful,I am hapy beautiful day.,35.27
+21,4,9,Female,3,quickly,The quickly is fun.,25.3
+21,4,9,Female,4,friend,I am hapy friend day.,25.91
+21,4,9,Female,5,school,The school is fun.,23.51
+21,4,9,Female,6,family,The family is fun.,39.09
+21,4,9,Female,7,happy,I am hapy happy day.,21.62
+21,4,9,Female,8,animal,I am hapy animal day.,22.77
+21,4,9,Female,9,garden,The garden is fun.,22.66
+21,4,9,Female,10,favorite,I am hapy favorite day.,39.27
+21,4,9,Female,11,summer,I am hapy summer day.,29.9
+21,4,9,Female,12,winter,The winter is fun.,28.87
+21,4,9,Female,13,mountain,I am hapy mountain day.,28.22
+21,4,9,Female,14,river,I am hapy river day.,28.67
+21,4,9,Female,15,delicious,I am hapy delicious day.,35.65
+21,4,9,Female,16,tired,I am hapy tired day.,25.02
+21,4,9,Female,17,excited,I am hapy excited day.,25.46
+21,4,9,Female,18,football,I am hapy football day.,22.93
+21,4,9,Female,19,library,I am hapy library day.,29.88
+21,4,9,Female,20,birthday,The birthday is fun.,26.86
+21,4,9,Female,21,teacher,The teacher is fun.,32.76
+21,4,9,Female,22,computer,I am hapy computer day.,36.94
+21,4,9,Female,23,pencil,I am hapy pencil day.,29.8
+21,4,9,Female,24,music,I am hapy music day.,27.45
+21,4,9,Female,25,forest,I am hapy forest day.,20.6
+21,4,9,Female,26,painting,The painting is fun.,31.25
+21,4,9,Female,27,ocean,I am hapy ocean day.,27.38
+21,4,9,Female,28,storm,I am hapy storm day.,23.36
+21,4,9,Female,29,snow,The snow is fun.,33.78
+21,4,9,Female,30,desert,I am hapy desert day.,36.56
+21,4,9,Female,31,castle,The castle is fun.,34.65
+21,4,9,Female,32,bridge,I am hapy bridge day.,28.54
+21,4,9,Female,33,island,I am hapy island day.,31.8
+21,4,9,Female,34,train,I am hapy train day.,25.17
+21,4,9,Female,35,airplane,I am hapy airplane day.,39.46
+21,4,9,Female,36,market,I am hapy market day.,28.67
+21,4,9,Female,37,village,I am hapy village day.,37.65
+21,4,9,Female,38,city,I am hapy city day.,33.16
+21,4,9,Female,39,country,The country is fun.,39.27
+21,4,9,Female,40,language,I am hapy language day.,25.78
+21,4,9,Female,41,breakfast,The breakfast is fun.,38.7
+21,4,9,Female,42,dinner,I am hapy dinner day.,22.12
+21,4,9,Female,43,chocolate,I am hapy chocolate day.,25.87
+21,4,9,Female,44,science,The science is fun.,34.74
+21,4,9,Female,45,history,The history is fun.,27.34
+21,4,9,Female,46,planet,I am hapy planet day.,24.28
+21,4,9,Female,47,star,The star is fun.,31.03
+21,4,9,Female,48,moon,I am hapy moon day.,36.33
+21,4,9,Female,49,earth,I am hapy earth day.,32.7
+21,4,9,Female,50,sun,I am hapy sun day.,27.66
+21,4,9,Female,51,camera,I am hapy camera day.,24.9
+21,4,9,Female,53,television,I am hapy television day.,21.08
+21,4,9,Female,54,robot,The robot is fun.,26.13
+21,4,9,Female,55,book,I am hapy book day.,22.73
+21,4,9,Female,57,baseball,I am hapy baseball day.,33.94
+21,4,9,Female,58,tennis,I am hapy tennis day.,37.23
+21,4,9,Female,59,hockey,I am hapy hockey day.,26.8
+21,4,9,Female,60,dance,The dance is fun.,20.45
+22,5,11,Female,1,because,I am hapy because day.,24.17
+22,5,11,Female,7,happy,I am hapy happy day.,37.09
+22,5,11,Female,9,garden,I am hapy garden day.,35.34
+22,5,11,Female,16,tired,I am hapy tired day.,36.18
+22,5,11,Female,18,football,The football is fun.,27.75
+22,5,11,Female,19,library,I am hapy library day.,24.96
+22,5,11,Female,20,birthday,The birthday is fun.,34.17
+22,5,11,Female,22,computer,The computer is fun.,36.8
+22,5,11,Female,24,music,I am hapy music day.,34.73
+22,5,11,Female,25,forest,I am hapy forest day.,28.01
+22,5,11,Female,27,ocean,The ocean is fun.,25.24
+22,5,11,Female,28,storm,I am hapy storm day.,33.64
+22,5,11,Female,29,snow,The snow is fun.,25.28
+22,5,11,Female,30,desert,I am hapy desert day.,32.07
+22,5,11,Female,31,castle,I am hapy castle day.,35.6
+22,5,11,Female,32,bridge,I am hapy bridge day.,23.32
+22,5,11,Female,33,island,I am hapy island day.,34.59
+22,5,11,Female,34,train,The train is fun.,24.39
+22,5,11,Female,35,airplane,The airplane is fun.,23.66
+22,5,11,Female,36,market,I am hapy market day.,38.66
+22,5,11,Female,40,language,I am hapy language day.,20.28
+22,5,11,Female,41,breakfast,I am hapy breakfast day.,30.32
+22,5,11,Female,43,chocolate,The chocolate is fun.,29.39
+22,5,11,Female,46,planet,I am hapy planet day.,36.36
+22,5,11,Female,47,star,I am hapy star day.,22.61
+22,5,11,Female,49,earth,I am hapy earth day.,36.55
+22,5,11,Female,51,camera,The camera is fun.,23.55
+22,5,11,Female,53,television,I am hapy television day.,32.54
+22,5,11,Female,58,tennis,The tennis is fun.,29.13
+22,5,11,Female,59,hockey,I am hapy hockey day.,20.2
+23,3,9,Male,1,because,I used the word because correctly in this sentence.,14.61
+23,3,9,Male,2,beautiful,I used the word beautiful correctly in this sentence.,6.98
+23,3,9,Male,3,quickly,I used the word quickly correctly in this sentence.,13.6
+23,3,9,Male,4,friend,I used the word friend correctly in this sentence.,12.97
+23,3,9,Male,5,school,I used the word school correctly in this sentence.,9.49
+23,3,9,Male,6,family,I used the word family correctly in this sentence.,13.28
+23,3,9,Male,7,happy,I used the word happy correctly in this sentence.,7.48
+23,3,9,Male,8,animal,I used the word animal correctly in this sentence.,9.07
+23,3,9,Male,9,garden,I used the word garden correctly in this sentence.,8.86
+23,3,9,Male,11,summer,I used the word summer correctly in this sentence.,5.27
+23,3,9,Male,12,winter,I used the word winter correctly in this sentence.,12.73
+23,3,9,Male,13,mountain,I used the word mountain correctly in this sentence.,14.0
+23,3,9,Male,14,river,I used the word river correctly in this sentence.,7.63
+23,3,9,Male,15,delicious,I used the word delicious correctly in this sentence.,13.65
+23,3,9,Male,16,tired,I used the word tired correctly in this sentence.,5.58
+23,3,9,Male,17,excited,I used the word excited correctly in this sentence.,10.74
+23,3,9,Male,18,football,I used the word football correctly in this sentence.,12.82
+23,3,9,Male,19,library,I used the word library correctly in this sentence.,13.68
+23,3,9,Male,20,birthday,I used the word birthday correctly in this sentence.,10.01
+23,3,9,Male,21,teacher,I used the word teacher correctly in this sentence.,6.64
+23,3,9,Male,23,pencil,I used the word pencil correctly in this sentence.,10.31
+23,3,9,Male,26,painting,I used the word painting correctly in this sentence.,12.2
+23,3,9,Male,27,ocean,I used the word ocean correctly in this sentence.,7.5
+23,3,9,Male,29,snow,I used the word snow correctly in this sentence.,7.15
+23,3,9,Male,30,desert,I used the word desert correctly in this sentence.,9.53
+23,3,9,Male,32,bridge,I used the word bridge correctly in this sentence.,13.36
+23,3,9,Male,33,island,I used the word island correctly in this sentence.,9.58
+23,3,9,Male,34,train,I used the word train correctly in this sentence.,7.16
+23,3,9,Male,36,market,I used the word market correctly in this sentence.,13.35
+23,3,9,Male,37,village,I used the word village correctly in this sentence.,7.55
+23,3,9,Male,38,city,I used the word city correctly in this sentence.,6.26
+23,3,9,Male,41,breakfast,I used the word breakfast correctly in this sentence.,7.21
+23,3,9,Male,42,dinner,I used the word dinner correctly in this sentence.,13.05
+23,3,9,Male,43,chocolate,I used the word chocolate correctly in this sentence.,6.87
+23,3,9,Male,44,science,I used the word science correctly in this sentence.,13.97
+23,3,9,Male,45,history,I used the word history correctly in this sentence.,13.53
+23,3,9,Male,46,planet,I used the word planet correctly in this sentence.,6.64
+23,3,9,Male,48,moon,I used the word moon correctly in this sentence.,13.04
+23,3,9,Male,49,earth,I used the word earth correctly in this sentence.,12.07
+23,3,9,Male,53,television,I used the word television correctly in this sentence.,10.98
+23,3,9,Male,54,robot,I used the word robot correctly in this sentence.,7.65
+23,3,9,Male,55,book,I used the word book correctly in this sentence.,5.49
+23,3,9,Male,56,basketball,I used the word basketball correctly in this sentence.,12.16
+23,3,9,Male,57,baseball,I used the word baseball correctly in this sentence.,6.99
+23,3,9,Male,58,tennis,I used the word tennis correctly in this sentence.,9.34
+23,3,9,Male,59,hockey,I used the word hockey correctly in this sentence.,7.01
+23,3,9,Male,60,dance,I used the word dance correctly in this sentence.,11.3
+24,3,8,Female,2,beautiful,I used the word beautiful correctly in this sentence.,13.54
+24,3,8,Female,3,quickly,I used the word quickly correctly in this sentence.,7.5
+24,3,8,Female,5,school,I used the word school correctly in this sentence.,6.65
+24,3,8,Female,7,happy,I used the word happy correctly in this sentence.,10.8
+24,3,8,Female,8,animal,I used the word animal correctly in this sentence.,6.86
+24,3,8,Female,9,garden,I used the word garden correctly in this sentence.,6.87
+24,3,8,Female,10,favorite,I used the word favorite correctly in this sentence.,13.15
+24,3,8,Female,11,summer,I used the word summer correctly in this sentence.,7.14
+24,3,8,Female,12,winter,I used the word winter correctly in this sentence.,7.05
+24,3,8,Female,13,mountain,I used the word mountain correctly in this sentence.,12.63
+24,3,8,Female,14,river,I used the word river correctly in this sentence.,9.95
+24,3,8,Female,15,delicious,I used the word delicious correctly in this sentence.,11.49
+24,3,8,Female,17,excited,I used the word excited correctly in this sentence.,8.1
+24,3,8,Female,19,library,I used the word library correctly in this sentence.,12.3
+24,3,8,Female,20,birthday,I used the word birthday correctly in this sentence.,11.26
+24,3,8,Female,21,teacher,I used the word teacher correctly in this sentence.,11.64
+24,3,8,Female,22,computer,I used the word computer correctly in this sentence.,10.52
+24,3,8,Female,23,pencil,I used the word pencil correctly in this sentence.,14.46
+24,3,8,Female,25,forest,I used the word forest correctly in this sentence.,14.08
+24,3,8,Female,27,ocean,I used the word ocean correctly in this sentence.,5.66
+24,3,8,Female,29,snow,I used the word snow correctly in this sentence.,14.51
+24,3,8,Female,30,desert,I used the word desert correctly in this sentence.,5.65
+24,3,8,Female,31,castle,I used the word castle correctly in this sentence.,10.96
+24,3,8,Female,32,bridge,I used the word bridge correctly in this sentence.,7.92
+24,3,8,Female,33,island,I used the word island correctly in this sentence.,9.21
+24,3,8,Female,35,airplane,I used the word airplane correctly in this sentence.,6.76
+24,3,8,Female,38,city,I used the word city correctly in this sentence.,14.02
+24,3,8,Female,40,language,I used the word language correctly in this sentence.,6.64
+24,3,8,Female,41,breakfast,I used the word breakfast correctly in this sentence.,6.0
+24,3,8,Female,42,dinner,I used the word dinner correctly in this sentence.,8.41
+24,3,8,Female,44,science,I used the word science correctly in this sentence.,14.42
+24,3,8,Female,45,history,I used the word history correctly in this sentence.,5.26
+24,3,8,Female,46,planet,I used the word planet correctly in this sentence.,10.37
+24,3,8,Female,47,star,I used the word star correctly in this sentence.,12.62
+24,3,8,Female,48,moon,I used the word moon correctly in this sentence.,6.39
+24,3,8,Female,49,earth,I used the word earth correctly in this sentence.,11.01
+24,3,8,Female,50,sun,I used the word sun correctly in this sentence.,14.8
+24,3,8,Female,51,camera,I used the word camera correctly in this sentence.,5.21
+24,3,8,Female,52,telephone,I used the word telephone correctly in this sentence.,12.36
+24,3,8,Female,56,basketball,I used the word basketball correctly in this sentence.,5.43
+24,3,8,Female,58,tennis,I used the word tennis correctly in this sentence.,9.41
+24,3,8,Female,60,dance,I used the word dance correctly in this sentence.,14.35
+25,3,8,Female,1,because,I used the word because correctly in this sentence.,14.24
+25,3,8,Female,2,beautiful,I used the word beautiful correctly in this sentence.,7.01
+25,3,8,Female,3,quickly,I used the word quickly correctly in this sentence.,10.2
+25,3,8,Female,4,friend,I used the word friend correctly in this sentence.,14.97
+25,3,8,Female,5,school,I used the word school correctly in this sentence.,11.4
+25,3,8,Female,6,family,I used the word family correctly in this sentence.,14.48
+25,3,8,Female,7,happy,I used the word happy correctly in this sentence.,12.48
+25,3,8,Female,8,animal,I used the word animal correctly in this sentence.,6.01
+25,3,8,Female,9,garden,I used the word garden correctly in this sentence.,8.24
+25,3,8,Female,10,favorite,I used the word favorite correctly in this sentence.,10.49
+25,3,8,Female,11,summer,I used the word summer correctly in this sentence.,12.37
+25,3,8,Female,12,winter,I used the word winter correctly in this sentence.,12.72
+25,3,8,Female,13,mountain,I used the word mountain correctly in this sentence.,5.07
+25,3,8,Female,14,river,I used the word river correctly in this sentence.,6.21
+25,3,8,Female,15,delicious,I used the word delicious correctly in this sentence.,12.02
+25,3,8,Female,16,tired,I used the word tired correctly in this sentence.,11.91
+25,3,8,Female,17,excited,I used the word excited correctly in this sentence.,12.76
+25,3,8,Female,18,football,I used the word football correctly in this sentence.,7.13
+25,3,8,Female,19,library,I used the word library correctly in this sentence.,14.58
+25,3,8,Female,20,birthday,I used the word birthday correctly in this sentence.,7.85
+25,3,8,Female,21,teacher,I used the word teacher correctly in this sentence.,14.5
+25,3,8,Female,22,computer,I used the word computer correctly in this sentence.,7.23
+25,3,8,Female,23,pencil,I used the word pencil correctly in this sentence.,11.15
+25,3,8,Female,24,music,I used the word music correctly in this sentence.,10.54
+25,3,8,Female,25,forest,I used the word forest correctly in this sentence.,11.0
+25,3,8,Female,26,painting,I used the word painting correctly in this sentence.,10.76
+25,3,8,Female,27,ocean,I used the word ocean correctly in this sentence.,13.42
+25,3,8,Female,28,storm,I used the word storm correctly in this sentence.,6.8
+25,3,8,Female,29,snow,I used the word snow correctly in this sentence.,9.05
+25,3,8,Female,30,desert,I used the word desert correctly in this sentence.,6.91
+25,3,8,Female,31,castle,I used the word castle correctly in this sentence.,13.56
+25,3,8,Female,32,bridge,I used the word bridge correctly in this sentence.,12.4
+25,3,8,Female,33,island,I used the word island correctly in this sentence.,6.1
+25,3,8,Female,34,train,I used the word train correctly in this sentence.,7.73
+25,3,8,Female,35,airplane,I used the word airplane correctly in this sentence.,6.59
+25,3,8,Female,36,market,I used the word market correctly in this sentence.,12.82
+25,3,8,Female,37,village,I used the word village correctly in this sentence.,13.7
+25,3,8,Female,38,city,I used the word city correctly in this sentence.,6.48
+25,3,8,Female,39,country,I used the word country correctly in this sentence.,14.45
+25,3,8,Female,40,language,I used the word language correctly in this sentence.,12.75
+25,3,8,Female,41,breakfast,I used the word breakfast correctly in this sentence.,11.98
+25,3,8,Female,42,dinner,I used the word dinner correctly in this sentence.,8.0
+25,3,8,Female,43,chocolate,I used the word chocolate correctly in this sentence.,8.93
+25,3,8,Female,44,science,I used the word science correctly in this sentence.,13.24
+25,3,8,Female,45,history,I used the word history correctly in this sentence.,14.0
+25,3,8,Female,46,planet,I used the word planet correctly in this sentence.,7.14
+25,3,8,Female,48,moon,I used the word moon correctly in this sentence.,13.33
+25,3,8,Female,49,earth,I used the word earth correctly in this sentence.,10.98
+25,3,8,Female,50,sun,I used the word sun correctly in this sentence.,11.03
+25,3,8,Female,51,camera,I used the word camera correctly in this sentence.,6.22
+25,3,8,Female,52,telephone,I used the word telephone correctly in this sentence.,8.76
+25,3,8,Female,53,television,I used the word television correctly in this sentence.,7.13
+25,3,8,Female,54,robot,I used the word robot correctly in this sentence.,9.97
+25,3,8,Female,55,book,I used the word book correctly in this sentence.,12.85
+25,3,8,Female,56,basketball,I used the word basketball correctly in this sentence.,8.77
+25,3,8,Female,57,baseball,I used the word baseball correctly in this sentence.,9.63
+25,3,8,Female,58,tennis,I used the word tennis correctly in this sentence.,9.14
+25,3,8,Female,59,hockey,I used the word hockey correctly in this sentence.,7.67
+25,3,8,Female,60,dance,I used the word dance correctly in this sentence.,12.39
+26,5,11,Male,1,because,I used the word because correctly in this sentence.,8.65
+26,5,11,Male,2,beautiful,I used the word beautiful correctly in this sentence.,13.76
+26,5,11,Male,3,quickly,I used the word quickly correctly in this sentence.,12.13
+26,5,11,Male,4,friend,I used the word friend correctly in this sentence.,10.69
+26,5,11,Male,5,school,I used the word school correctly in this sentence.,10.41
+26,5,11,Male,7,happy,I used the word happy correctly in this sentence.,6.32
+26,5,11,Male,8,animal,I used the word animal correctly in this sentence.,10.12
+26,5,11,Male,9,garden,I used the word garden correctly in this sentence.,13.89
+26,5,11,Male,10,favorite,I used the word favorite correctly in this sentence.,6.61
+26,5,11,Male,11,summer,I used the word summer correctly in this sentence.,8.54
+26,5,11,Male,12,winter,I used the word winter correctly in this sentence.,14.95
+26,5,11,Male,14,river,I used the word river correctly in this sentence.,13.06
+26,5,11,Male,15,delicious,I used the word delicious correctly in this sentence.,9.64
+26,5,11,Male,16,tired,I used the word tired correctly in this sentence.,6.85
+26,5,11,Male,17,excited,I used the word excited correctly in this sentence.,10.43
+26,5,11,Male,18,football,I used the word football correctly in this sentence.,11.82
+26,5,11,Male,19,library,I used the word library correctly in this sentence.,12.64
+26,5,11,Male,20,birthday,I used the word birthday correctly in this sentence.,10.78
+26,5,11,Male,21,teacher,I used the word teacher correctly in this sentence.,8.57
+26,5,11,Male,22,computer,I used the word computer correctly in this sentence.,12.25
+26,5,11,Male,23,pencil,I used the word pencil correctly in this sentence.,8.43
+26,5,11,Male,25,forest,I used the word forest correctly in this sentence.,8.69
+26,5,11,Male,27,ocean,I used the word ocean correctly in this sentence.,13.77
+26,5,11,Male,30,desert,I used the word desert correctly in this sentence.,10.19
+26,5,11,Male,32,bridge,I used the word bridge correctly in this sentence.,14.19
+26,5,11,Male,34,train,I used the word train correctly in this sentence.,12.05
+26,5,11,Male,35,airplane,I used the word airplane correctly in this sentence.,13.68
+26,5,11,Male,36,market,I used the word market correctly in this sentence.,7.77
+26,5,11,Male,37,village,I used the word village correctly in this sentence.,10.74
+26,5,11,Male,38,city,I used the word city correctly in this sentence.,9.96
+26,5,11,Male,39,country,I used the word country correctly in this sentence.,8.71
+26,5,11,Male,40,language,I used the word language correctly in this sentence.,14.29
+26,5,11,Male,41,breakfast,I used the word breakfast correctly in this sentence.,13.69
+26,5,11,Male,43,chocolate,I used the word chocolate correctly in this sentence.,12.23
+26,5,11,Male,44,science,I used the word science correctly in this sentence.,10.7
+26,5,11,Male,45,history,I used the word history correctly in this sentence.,10.2
+26,5,11,Male,46,planet,I used the word planet correctly in this sentence.,8.64
+26,5,11,Male,47,star,I used the word star correctly in this sentence.,6.52
+26,5,11,Male,48,moon,I used the word moon correctly in this sentence.,9.6
+26,5,11,Male,49,earth,I used the word earth correctly in this sentence.,10.98
+26,5,11,Male,52,telephone,I used the word telephone correctly in this sentence.,8.57
+26,5,11,Male,53,television,I used the word television correctly in this sentence.,11.39
+26,5,11,Male,55,book,I used the word book correctly in this sentence.,10.75
+26,5,11,Male,56,basketball,I used the word basketball correctly in this sentence.,10.18
+26,5,11,Male,57,baseball,I used the word baseball correctly in this sentence.,10.1
+26,5,11,Male,58,tennis,I used the word tennis correctly in this sentence.,10.57
+26,5,11,Male,60,dance,I used the word dance correctly in this sentence.,6.59
+27,6,12,Male,1,because,I am hapy because day.,23.23
+27,6,12,Male,2,beautiful,I am hapy beautiful day.,34.44
+27,6,12,Male,3,quickly,The quickly is fun.,39.04
+27,6,12,Male,6,family,I am hapy family day.,29.78
+27,6,12,Male,12,winter,I am hapy winter day.,24.14
+27,6,12,Male,13,mountain,I am hapy mountain day.,34.22
+27,6,12,Male,14,river,I am hapy river day.,31.48
+27,6,12,Male,17,excited,I am hapy excited day.,28.13
+27,6,12,Male,18,football,I am hapy football day.,32.06
+27,6,12,Male,19,library,The library is fun.,36.06
+27,6,12,Male,20,birthday,I am hapy birthday day.,38.48
+27,6,12,Male,21,teacher,I am hapy teacher day.,30.45
+27,6,12,Male,23,pencil,The pencil is fun.,21.55
+27,6,12,Male,24,music,I am hapy music day.,20.08
+27,6,12,Male,25,forest,I am hapy forest day.,22.91
+27,6,12,Male,26,painting,The painting is fun.,34.64
+27,6,12,Male,28,storm,I am hapy storm day.,28.09
+27,6,12,Male,29,snow,I am hapy snow day.,32.24
+27,6,12,Male,30,desert,The desert is fun.,22.53
+27,6,12,Male,32,bridge,I am hapy bridge day.,35.07
+27,6,12,Male,34,train,The train is fun.,39.24
+27,6,12,Male,37,village,The village is fun.,33.76
+27,6,12,Male,38,city,I am hapy city day.,32.79
+27,6,12,Male,39,country,I am hapy country day.,20.3
+27,6,12,Male,41,breakfast,I am hapy breakfast day.,34.12
+27,6,12,Male,43,chocolate,I am hapy chocolate day.,35.07
+27,6,12,Male,45,history,I am hapy history day.,32.05
+27,6,12,Male,47,star,The star is fun.,34.68
+27,6,12,Male,49,earth,The earth is fun.,23.4
+27,6,12,Male,52,telephone,I am hapy telephone day.,35.03
+27,6,12,Male,56,basketball,I am hapy basketball day.,20.24
+27,6,12,Male,57,baseball,The baseball is fun.,25.32
+27,6,12,Male,58,tennis,The tennis is fun.,23.23
+28,5,11,Female,1,because,My because is nice.,18.8
+28,5,11,Female,2,beautiful,My beautiful is nice.,13.74
+28,5,11,Female,3,quickly,My quickly is nice.,16.34
+28,5,11,Female,4,friend,My friend is nice.,18.52
+28,5,11,Female,5,school,My school is nice.,24.44
+28,5,11,Female,6,family,I go to skool every day family.,15.7
+28,5,11,Female,7,happy,My happy is nice.,17.75
+28,5,11,Female,8,animal,My animal is nice.,15.64
+28,5,11,Female,9,garden,My garden is nice.,15.59
+28,5,11,Female,10,favorite,My favorite is nice.,20.38
+28,5,11,Female,11,summer,My summer is nice.,23.39
+28,5,11,Female,12,winter,I go to skool every day winter.,13.25
+28,5,11,Female,13,mountain,I go to skool every day mountain.,21.17
+28,5,11,Female,16,tired,My tired is nice.,18.69
+28,5,11,Female,17,excited,My excited is nice.,17.21
+28,5,11,Female,19,library,My library is nice.,11.59
+28,5,11,Female,20,birthday,I go to skool every day birthday.,18.47
+28,5,11,Female,22,computer,I go to skool every day computer.,24.55
+28,5,11,Female,23,pencil,My pencil is nice.,14.57
+28,5,11,Female,24,music,My music is nice.,16.36
+28,5,11,Female,25,forest,My forest is nice.,19.81
+28,5,11,Female,27,ocean,My ocean is nice.,22.98
+28,5,11,Female,28,storm,I go to skool every day storm.,11.09
+28,5,11,Female,29,snow,My snow is nice.,20.66
+28,5,11,Female,30,desert,My desert is nice.,13.93
+28,5,11,Female,31,castle,I go to skool every day castle.,21.73
+28,5,11,Female,32,bridge,My bridge is nice.,12.98
+28,5,11,Female,33,island,My island is nice.,15.83
+28,5,11,Female,34,train,My train is nice.,19.94
+28,5,11,Female,35,airplane,My airplane is nice.,16.81
+28,5,11,Female,36,market,My market is nice.,16.73
+28,5,11,Female,37,village,My village is nice.,22.3
+28,5,11,Female,38,city,My city is nice.,19.22
+28,5,11,Female,39,country,I go to skool every day country.,23.81
+28,5,11,Female,40,language,My language is nice.,14.68
+28,5,11,Female,41,breakfast,I go to skool every day breakfast.,13.92
+28,5,11,Female,42,dinner,My dinner is nice.,18.22
+28,5,11,Female,43,chocolate,My chocolate is nice.,10.95
+28,5,11,Female,44,science,I go to skool every day science.,24.51
+28,5,11,Female,45,history,My history is nice.,17.79
+28,5,11,Female,46,planet,My planet is nice.,15.61
+28,5,11,Female,47,star,My star is nice.,11.78
+28,5,11,Female,48,moon,My moon is nice.,19.01
+28,5,11,Female,49,earth,I go to skool every day earth.,11.74
+28,5,11,Female,50,sun,I go to skool every day sun.,22.68
+28,5,11,Female,51,camera,My camera is nice.,14.55
+28,5,11,Female,52,telephone,My telephone is nice.,22.67
+28,5,11,Female,53,television,My television is nice.,18.71
+28,5,11,Female,54,robot,I go to skool every day robot.,15.06
+28,5,11,Female,55,book,My book is nice.,24.19
+28,5,11,Female,56,basketball,My basketball is nice.,17.11
+28,5,11,Female,57,baseball,My baseball is nice.,24.7
+28,5,11,Female,58,tennis,My tennis is nice.,24.55
+28,5,11,Female,59,hockey,My hockey is nice.,14.68
+29,3,9,Female,5,school,I go to skool every day school.,20.3
+29,3,9,Female,6,family,My family is nice.,13.36
+29,3,9,Female,9,garden,My garden is nice.,22.27
+29,3,9,Female,10,favorite,I go to skool every day favorite.,18.41
+29,3,9,Female,13,mountain,I go to skool every day mountain.,16.65
+29,3,9,Female,15,delicious,My delicious is nice.,21.87
+29,3,9,Female,17,excited,My excited is nice.,20.62
+29,3,9,Female,19,library,My library is nice.,18.07
+29,3,9,Female,25,forest,My forest is nice.,17.7
+29,3,9,Female,26,painting,My painting is nice.,24.12
+29,3,9,Female,27,ocean,I go to skool every day ocean.,23.64
+29,3,9,Female,29,snow,My snow is nice.,16.04
+29,3,9,Female,30,desert,My desert is nice.,20.18
+29,3,9,Female,31,castle,My castle is nice.,24.12
+29,3,9,Female,32,bridge,My bridge is nice.,21.41
+29,3,9,Female,33,island,My island is nice.,20.73
+29,3,9,Female,36,market,My market is nice.,21.76
+29,3,9,Female,37,village,I go to skool every day village.,23.61
+29,3,9,Female,41,breakfast,I go to skool every day breakfast.,16.77
+29,3,9,Female,42,dinner,I go to skool every day dinner.,10.46
+29,3,9,Female,43,chocolate,My chocolate is nice.,19.82
+29,3,9,Female,44,science,I go to skool every day science.,15.5
+29,3,9,Female,46,planet,My planet is nice.,18.71
+29,3,9,Female,48,moon,My moon is nice.,12.56
+29,3,9,Female,52,telephone,My telephone is nice.,20.09
+29,3,9,Female,55,book,My book is nice.,11.92
+30,4,10,Female,1,because,I used the word because correctly in this sentence.,8.36
+30,4,10,Female,2,beautiful,I used the word beautiful correctly in this sentence.,14.57
+30,4,10,Female,4,friend,I used the word friend correctly in this sentence.,14.13
+30,4,10,Female,5,school,I used the word school correctly in this sentence.,9.87
+30,4,10,Female,6,family,I used the word family correctly in this sentence.,9.87
+30,4,10,Female,7,happy,I used the word happy correctly in this sentence.,8.01
+30,4,10,Female,8,animal,I used the word animal correctly in this sentence.,14.19
+30,4,10,Female,9,garden,I used the word garden correctly in this sentence.,8.77
+30,4,10,Female,10,favorite,I used the word favorite correctly in this sentence.,8.47
+30,4,10,Female,11,summer,I used the word summer correctly in this sentence.,8.93
+30,4,10,Female,12,winter,I used the word winter correctly in this sentence.,13.48
+30,4,10,Female,13,mountain,I used the word mountain correctly in this sentence.,5.99
+30,4,10,Female,15,delicious,I used the word delicious correctly in this sentence.,6.1
+30,4,10,Female,16,tired,I used the word tired correctly in this sentence.,13.69
+30,4,10,Female,20,birthday,I used the word birthday correctly in this sentence.,13.15
+30,4,10,Female,22,computer,I used the word computer correctly in this sentence.,10.51
+30,4,10,Female,23,pencil,I used the word pencil correctly in this sentence.,9.33
+30,4,10,Female,26,painting,I used the word painting correctly in this sentence.,6.45
+30,4,10,Female,27,ocean,I used the word ocean correctly in this sentence.,8.34
+30,4,10,Female,28,storm,I used the word storm correctly in this sentence.,12.7
+30,4,10,Female,29,snow,I used the word snow correctly in this sentence.,8.96
+30,4,10,Female,30,desert,I used the word desert correctly in this sentence.,9.55
+30,4,10,Female,31,castle,I used the word castle correctly in this sentence.,10.67
+30,4,10,Female,34,train,I used the word train correctly in this sentence.,8.89
+30,4,10,Female,35,airplane,I used the word airplane correctly in this sentence.,6.42
+30,4,10,Female,36,market,I used the word market correctly in this sentence.,11.09
+30,4,10,Female,37,village,I used the word village correctly in this sentence.,5.69
+30,4,10,Female,40,language,I used the word language correctly in this sentence.,14.5
+30,4,10,Female,41,breakfast,I used the word breakfast correctly in this sentence.,9.03
+30,4,10,Female,45,history,I used the word history correctly in this sentence.,14.6
+30,4,10,Female,46,planet,I used the word planet correctly in this sentence.,5.34
+30,4,10,Female,47,star,I used the word star correctly in this sentence.,13.79
+30,4,10,Female,48,moon,I used the word moon correctly in this sentence.,9.16
+30,4,10,Female,49,earth,I used the word earth correctly in this sentence.,14.08
+30,4,10,Female,50,sun,I used the word sun correctly in this sentence.,8.84
+30,4,10,Female,51,camera,I used the word camera correctly in this sentence.,6.22
+30,4,10,Female,52,telephone,I used the word telephone correctly in this sentence.,12.67
+30,4,10,Female,53,television,I used the word television correctly in this sentence.,13.14
+30,4,10,Female,55,book,I used the word book correctly in this sentence.,12.48
+30,4,10,Female,60,dance,I used the word dance correctly in this sentence.,12.92
+31,5,10,Male,1,because,I used the word because correctly in this sentence.,6.96
+31,5,10,Male,2,beautiful,I used the word beautiful correctly in this sentence.,7.11
+31,5,10,Male,3,quickly,I used the word quickly correctly in this sentence.,7.49
+31,5,10,Male,4,friend,I used the word friend correctly in this sentence.,8.47
+31,5,10,Male,7,happy,I used the word happy correctly in this sentence.,10.51
+31,5,10,Male,8,animal,I used the word animal correctly in this sentence.,7.61
+31,5,10,Male,9,garden,I used the word garden correctly in this sentence.,8.16
+31,5,10,Male,10,favorite,I used the word favorite correctly in this sentence.,6.87
+31,5,10,Male,11,summer,I used the word summer correctly in this sentence.,11.79
+31,5,10,Male,12,winter,I used the word winter correctly in this sentence.,14.61
+31,5,10,Male,13,mountain,I used the word mountain correctly in this sentence.,9.41
+31,5,10,Male,14,river,I used the word river correctly in this sentence.,11.98
+31,5,10,Male,18,football,I used the word football correctly in this sentence.,11.96
+31,5,10,Male,19,library,I used the word library correctly in this sentence.,11.75
+31,5,10,Male,21,teacher,I used the word teacher correctly in this sentence.,11.88
+31,5,10,Male,22,computer,I used the word computer correctly in this sentence.,13.55
+31,5,10,Male,23,pencil,I used the word pencil correctly in this sentence.,7.54
+31,5,10,Male,24,music,I used the word music correctly in this sentence.,12.23
+31,5,10,Male,25,forest,I used the word forest correctly in this sentence.,13.17
+31,5,10,Male,26,painting,I used the word painting correctly in this sentence.,10.88
+31,5,10,Male,27,ocean,I used the word ocean correctly in this sentence.,11.64
+31,5,10,Male,28,storm,I used the word storm correctly in this sentence.,13.46
+31,5,10,Male,29,snow,I used the word snow correctly in this sentence.,7.95
+31,5,10,Male,30,desert,I used the word desert correctly in this sentence.,14.39
+31,5,10,Male,33,island,I used the word island correctly in this sentence.,9.28
+31,5,10,Male,34,train,I used the word train correctly in this sentence.,10.29
+31,5,10,Male,35,airplane,I used the word airplane correctly in this sentence.,6.3
+31,5,10,Male,36,market,I used the word market correctly in this sentence.,5.02
+31,5,10,Male,37,village,I used the word village correctly in this sentence.,6.27
+31,5,10,Male,38,city,I used the word city correctly in this sentence.,13.8
+31,5,10,Male,42,dinner,I used the word dinner correctly in this sentence.,10.88
+31,5,10,Male,43,chocolate,I used the word chocolate correctly in this sentence.,13.27
+31,5,10,Male,44,science,I used the word science correctly in this sentence.,11.79
+31,5,10,Male,45,history,I used the word history correctly in this sentence.,13.61
+31,5,10,Male,47,star,I used the word star correctly in this sentence.,10.54
+31,5,10,Male,48,moon,I used the word moon correctly in this sentence.,14.4
+31,5,10,Male,49,earth,I used the word earth correctly in this sentence.,6.99
+31,5,10,Male,50,sun,I used the word sun correctly in this sentence.,6.99
+31,5,10,Male,51,camera,I used the word camera correctly in this sentence.,7.24
+31,5,10,Male,52,telephone,I used the word telephone correctly in this sentence.,14.77
+31,5,10,Male,53,television,I used the word television correctly in this sentence.,7.78
+31,5,10,Male,54,robot,I used the word robot correctly in this sentence.,11.16
+31,5,10,Male,55,book,I used the word book correctly in this sentence.,12.78
+31,5,10,Male,58,tennis,I used the word tennis correctly in this sentence.,14.79
+31,5,10,Male,59,hockey,I used the word hockey correctly in this sentence.,8.96
+31,5,10,Male,60,dance,I used the word dance correctly in this sentence.,10.03
+32,3,9,Male,1,because,My because is nice.,12.3
+32,3,9,Male,3,quickly,I go to skool every day quickly.,24.76
+32,3,9,Male,9,garden,My garden is nice.,22.48
+32,3,9,Male,10,favorite,My favorite is nice.,10.35
+32,3,9,Male,13,mountain,My mountain is nice.,12.41
+32,3,9,Male,15,delicious,My delicious is nice.,14.59
+32,3,9,Male,18,football,My football is nice.,22.66
+32,3,9,Male,19,library,My library is nice.,15.82
+32,3,9,Male,20,birthday,My birthday is nice.,15.04
+32,3,9,Male,21,teacher,My teacher is nice.,19.85
+32,3,9,Male,24,music,My music is nice.,18.28
+32,3,9,Male,26,painting,My painting is nice.,14.36
+32,3,9,Male,27,ocean,My ocean is nice.,12.27
+32,3,9,Male,28,storm,My storm is nice.,13.4
+32,3,9,Male,29,snow,My snow is nice.,15.6
+32,3,9,Male,30,desert,My desert is nice.,17.73
+32,3,9,Male,32,bridge,I go to skool every day bridge.,23.52
+32,3,9,Male,34,train,My train is nice.,13.56
+32,3,9,Male,35,airplane,I go to skool every day airplane.,19.52
+32,3,9,Male,36,market,My market is nice.,12.21
+32,3,9,Male,37,village,My village is nice.,22.57
+32,3,9,Male,39,country,I go to skool every day country.,15.89
+32,3,9,Male,40,language,My language is nice.,21.04
+32,3,9,Male,42,dinner,My dinner is nice.,22.57
+32,3,9,Male,44,science,My science is nice.,14.74
+32,3,9,Male,45,history,My history is nice.,14.76
+32,3,9,Male,47,star,I go to skool every day star.,15.1
+32,3,9,Male,49,earth,My earth is nice.,12.69
+32,3,9,Male,52,telephone,My telephone is nice.,19.32
+32,3,9,Male,53,television,My television is nice.,21.49
+32,3,9,Male,54,robot,My robot is nice.,12.26
+32,3,9,Male,57,baseball,My baseball is nice.,15.38
+32,3,9,Male,58,tennis,I go to skool every day tennis.,21.08
+33,3,8,Male,1,because,I used the word because correctly in this sentence.,6.1
+33,3,8,Male,5,school,I used the word school correctly in this sentence.,9.85
+33,3,8,Male,7,happy,I used the word happy correctly in this sentence.,9.28
+33,3,8,Male,9,garden,I used the word garden correctly in this sentence.,13.05
+33,3,8,Male,11,summer,I used the word summer correctly in this sentence.,5.71
+33,3,8,Male,12,winter,I used the word winter correctly in this sentence.,12.66
+33,3,8,Male,13,mountain,I used the word mountain correctly in this sentence.,5.94
+33,3,8,Male,14,river,I used the word river correctly in this sentence.,10.36
+33,3,8,Male,15,delicious,I used the word delicious correctly in this sentence.,12.67
+33,3,8,Male,16,tired,I used the word tired correctly in this sentence.,11.47
+33,3,8,Male,17,excited,I used the word excited correctly in this sentence.,11.77
+33,3,8,Male,20,birthday,I used the word birthday correctly in this sentence.,5.33
+33,3,8,Male,22,computer,I used the word computer correctly in this sentence.,10.4
+33,3,8,Male,23,pencil,I used the word pencil correctly in this sentence.,8.9
+33,3,8,Male,24,music,I used the word music correctly in this sentence.,6.96
+33,3,8,Male,26,painting,I used the word painting correctly in this sentence.,11.92
+33,3,8,Male,27,ocean,I used the word ocean correctly in this sentence.,6.24
+33,3,8,Male,28,storm,I used the word storm correctly in this sentence.,7.06
+33,3,8,Male,29,snow,I used the word snow correctly in this sentence.,10.28
+33,3,8,Male,30,desert,I used the word desert correctly in this sentence.,7.95
+33,3,8,Male,31,castle,I used the word castle correctly in this sentence.,14.43
+33,3,8,Male,32,bridge,I used the word bridge correctly in this sentence.,5.82
+33,3,8,Male,34,train,I used the word train correctly in this sentence.,6.31
+33,3,8,Male,35,airplane,I used the word airplane correctly in this sentence.,6.12
+33,3,8,Male,36,market,I used the word market correctly in this sentence.,14.74
+33,3,8,Male,37,village,I used the word village correctly in this sentence.,14.9
+33,3,8,Male,41,breakfast,I used the word breakfast correctly in this sentence.,11.36
+33,3,8,Male,42,dinner,I used the word dinner correctly in this sentence.,13.53
+33,3,8,Male,43,chocolate,I used the word chocolate correctly in this sentence.,8.61
+33,3,8,Male,44,science,I used the word science correctly in this sentence.,14.1
+33,3,8,Male,45,history,I used the word history correctly in this sentence.,9.31
+33,3,8,Male,47,star,I used the word star correctly in this sentence.,7.89
+33,3,8,Male,48,moon,I used the word moon correctly in this sentence.,13.28
+33,3,8,Male,49,earth,I used the word earth correctly in this sentence.,5.61
+33,3,8,Male,50,sun,I used the word sun correctly in this sentence.,7.96
+33,3,8,Male,51,camera,I used the word camera correctly in this sentence.,12.59
+33,3,8,Male,55,book,I used the word book correctly in this sentence.,8.29
+33,3,8,Male,56,basketball,I used the word basketball correctly in this sentence.,5.55
+33,3,8,Male,57,baseball,I used the word baseball correctly in this sentence.,7.59
+33,3,8,Male,58,tennis,I used the word tennis correctly in this sentence.,8.46
+33,3,8,Male,59,hockey,I used the word hockey correctly in this sentence.,12.24
+33,3,8,Male,60,dance,I used the word dance correctly in this sentence.,11.62
+34,3,9,Male,2,beautiful,I used the word beautiful correctly in this sentence.,9.18
+34,3,9,Male,3,quickly,I used the word quickly correctly in this sentence.,5.28
+34,3,9,Male,4,friend,I used the word friend correctly in this sentence.,10.92
+34,3,9,Male,5,school,I used the word school correctly in this sentence.,7.28
+34,3,9,Male,6,family,I used the word family correctly in this sentence.,12.35
+34,3,9,Male,7,happy,I used the word happy correctly in this sentence.,9.9
+34,3,9,Male,8,animal,I used the word animal correctly in this sentence.,8.91
+34,3,9,Male,9,garden,I used the word garden correctly in this sentence.,9.75
+34,3,9,Male,10,favorite,I used the word favorite correctly in this sentence.,7.46
+34,3,9,Male,13,mountain,I used the word mountain correctly in this sentence.,9.32
+34,3,9,Male,14,river,I used the word river correctly in this sentence.,13.3
+34,3,9,Male,15,delicious,I used the word delicious correctly in this sentence.,6.06
+34,3,9,Male,17,excited,I used the word excited correctly in this sentence.,8.28
+34,3,9,Male,18,football,I used the word football correctly in this sentence.,5.11
+34,3,9,Male,19,library,I used the word library correctly in this sentence.,10.16
+34,3,9,Male,20,birthday,I used the word birthday correctly in this sentence.,10.23
+34,3,9,Male,21,teacher,I used the word teacher correctly in this sentence.,12.33
+34,3,9,Male,22,computer,I used the word computer correctly in this sentence.,6.84
+34,3,9,Male,23,pencil,I used the word pencil correctly in this sentence.,7.86
+34,3,9,Male,24,music,I used the word music correctly in this sentence.,13.78
+34,3,9,Male,25,forest,I used the word forest correctly in this sentence.,8.02
+34,3,9,Male,26,painting,I used the word painting correctly in this sentence.,9.76
+34,3,9,Male,27,ocean,I used the word ocean correctly in this sentence.,7.61
+34,3,9,Male,28,storm,I used the word storm correctly in this sentence.,5.44
+34,3,9,Male,29,snow,I used the word snow correctly in this sentence.,13.13
+34,3,9,Male,30,desert,I used the word desert correctly in this sentence.,5.01
+34,3,9,Male,31,castle,I used the word castle correctly in this sentence.,13.33
+34,3,9,Male,32,bridge,I used the word bridge correctly in this sentence.,10.5
+34,3,9,Male,33,island,I used the word island correctly in this sentence.,5.57
+34,3,9,Male,34,train,I used the word train correctly in this sentence.,10.65
+34,3,9,Male,35,airplane,I used the word airplane correctly in this sentence.,10.73
+34,3,9,Male,36,market,I used the word market correctly in this sentence.,6.9
+34,3,9,Male,37,village,I used the word village correctly in this sentence.,9.47
+34,3,9,Male,38,city,I used the word city correctly in this sentence.,11.04
+34,3,9,Male,40,language,I used the word language correctly in this sentence.,11.08
+34,3,9,Male,41,breakfast,I used the word breakfast correctly in this sentence.,11.38
+34,3,9,Male,42,dinner,I used the word dinner correctly in this sentence.,7.03
+34,3,9,Male,43,chocolate,I used the word chocolate correctly in this sentence.,6.81
+34,3,9,Male,45,history,I used the word history correctly in this sentence.,10.23
+34,3,9,Male,46,planet,I used the word planet correctly in this sentence.,13.5
+34,3,9,Male,48,moon,I used the word moon correctly in this sentence.,10.91
+34,3,9,Male,49,earth,I used the word earth correctly in this sentence.,7.87
+34,3,9,Male,51,camera,I used the word camera correctly in this sentence.,8.79
+34,3,9,Male,52,telephone,I used the word telephone correctly in this sentence.,12.52
+34,3,9,Male,53,television,I used the word television correctly in this sentence.,14.92
+34,3,9,Male,54,robot,I used the word robot correctly in this sentence.,5.43
+34,3,9,Male,55,book,I used the word book correctly in this sentence.,7.42
+34,3,9,Male,56,basketball,I used the word basketball correctly in this sentence.,7.67
+34,3,9,Male,60,dance,I used the word dance correctly in this sentence.,14.74
+35,5,11,Male,2,beautiful,I go to skool every day beautiful.,19.96
+35,5,11,Male,3,quickly,My quickly is nice.,11.43
+35,5,11,Male,4,friend,My friend is nice.,10.31
+35,5,11,Male,5,school,I go to skool every day school.,14.72
+35,5,11,Male,6,family,My family is nice.,14.18
+35,5,11,Male,7,happy,I go to skool every day happy.,13.62
+35,5,11,Male,9,garden,My garden is nice.,18.46
+35,5,11,Male,10,favorite,My favorite is nice.,18.41
+35,5,11,Male,11,summer,My summer is nice.,24.1
+35,5,11,Male,13,mountain,I go to skool every day mountain.,13.51
+35,5,11,Male,14,river,My river is nice.,13.34
+35,5,11,Male,15,delicious,My delicious is nice.,16.18
+35,5,11,Male,18,football,My football is nice.,15.4
+35,5,11,Male,20,birthday,My birthday is nice.,22.49
+35,5,11,Male,21,teacher,My teacher is nice.,16.39
+35,5,11,Male,22,computer,I go to skool every day computer.,14.01
+35,5,11,Male,23,pencil,My pencil is nice.,21.78
+35,5,11,Male,24,music,My music is nice.,10.58
+35,5,11,Male,27,ocean,I go to skool every day ocean.,10.02
+35,5,11,Male,28,storm,My storm is nice.,22.1
+35,5,11,Male,29,snow,My snow is nice.,15.98
+35,5,11,Male,30,desert,My desert is nice.,24.12
+35,5,11,Male,32,bridge,I go to skool every day bridge.,15.77
+35,5,11,Male,33,island,I go to skool every day island.,15.3
+35,5,11,Male,34,train,My train is nice.,16.03
+35,5,11,Male,36,market,My market is nice.,13.55
+35,5,11,Male,38,city,I go to skool every day city.,11.82
+35,5,11,Male,40,language,I go to skool every day language.,15.09
+35,5,11,Male,41,breakfast,My breakfast is nice.,21.35
+35,5,11,Male,42,dinner,My dinner is nice.,24.04
+35,5,11,Male,43,chocolate,My chocolate is nice.,19.63
+35,5,11,Male,45,history,My history is nice.,23.14
+35,5,11,Male,46,planet,My planet is nice.,14.94
+35,5,11,Male,47,star,My star is nice.,19.73
+35,5,11,Male,48,moon,My moon is nice.,22.06
+35,5,11,Male,49,earth,My earth is nice.,23.41
+35,5,11,Male,54,robot,My robot is nice.,20.92
+35,5,11,Male,55,book,I go to skool every day book.,21.65
+35,5,11,Male,56,basketball,My basketball is nice.,19.04
+35,5,11,Male,58,tennis,My tennis is nice.,11.48
+35,5,11,Male,59,hockey,My hockey is nice.,24.29
+35,5,11,Male,60,dance,My dance is nice.,11.47
+36,5,10,Female,3,quickly,I am hapy quickly day.,22.65
+36,5,10,Female,4,friend,I am hapy friend day.,33.22
+36,5,10,Female,5,school,I am hapy school day.,35.85
+36,5,10,Female,6,family,I am hapy family day.,28.01
+36,5,10,Female,8,animal,I am hapy animal day.,29.03
+36,5,10,Female,9,garden,The garden is fun.,33.37
+36,5,10,Female,10,favorite,I am hapy favorite day.,22.09
+36,5,10,Female,11,summer,I am hapy summer day.,21.39
+36,5,10,Female,12,winter,I am hapy winter day.,35.8
+36,5,10,Female,14,river,I am hapy river day.,23.13
+36,5,10,Female,15,delicious,I am hapy delicious day.,29.36
+36,5,10,Female,16,tired,The tired is fun.,33.48
+36,5,10,Female,17,excited,I am hapy excited day.,29.64
+36,5,10,Female,18,football,I am hapy football day.,21.0
+36,5,10,Female,19,library,I am hapy library day.,39.56
+36,5,10,Female,20,birthday,I am hapy birthday day.,39.02
+36,5,10,Female,21,teacher,The teacher is fun.,23.93
+36,5,10,Female,22,computer,The computer is fun.,35.51
+36,5,10,Female,25,forest,The forest is fun.,26.33
+36,5,10,Female,26,painting,I am hapy painting day.,37.68
+36,5,10,Female,27,ocean,I am hapy ocean day.,35.88
+36,5,10,Female,29,snow,The snow is fun.,36.68
+36,5,10,Female,30,desert,The desert is fun.,31.42
+36,5,10,Female,31,castle,The castle is fun.,27.0
+36,5,10,Female,32,bridge,I am hapy bridge day.,21.2
+36,5,10,Female,33,island,I am hapy island day.,25.52
+36,5,10,Female,34,train,I am hapy train day.,36.85
+36,5,10,Female,35,airplane,The airplane is fun.,22.09
+36,5,10,Female,36,market,The market is fun.,39.05
+36,5,10,Female,38,city,I am hapy city day.,37.01
+36,5,10,Female,41,breakfast,I am hapy breakfast day.,30.51
+36,5,10,Female,42,dinner,The dinner is fun.,25.82
+36,5,10,Female,43,chocolate,The chocolate is fun.,36.98
+36,5,10,Female,44,science,I am hapy science day.,28.93
+36,5,10,Female,48,moon,I am hapy moon day.,23.59
+36,5,10,Female,49,earth,I am hapy earth day.,21.16
+36,5,10,Female,50,sun,The sun is fun.,26.72
+36,5,10,Female,53,television,I am hapy television day.,33.22
+36,5,10,Female,55,book,The book is fun.,38.36
+36,5,10,Female,56,basketball,The basketball is fun.,28.31
+36,5,10,Female,58,tennis,I am hapy tennis day.,26.46
+36,5,10,Female,60,dance,The dance is fun.,39.46
+37,4,10,Male,1,because,I am hapy because day.,23.51
+37,4,10,Male,2,beautiful,I am hapy beautiful day.,31.08
+37,4,10,Male,3,quickly,I am hapy quickly day.,36.85
+37,4,10,Male,4,friend,The friend is fun.,37.75
+37,4,10,Male,5,school,I am hapy school day.,24.89
+37,4,10,Male,6,family,The family is fun.,30.38
+37,4,10,Male,7,happy,I am hapy happy day.,20.44
+37,4,10,Male,9,garden,I am hapy garden day.,28.73
+37,4,10,Male,11,summer,I am hapy summer day.,28.04
+37,4,10,Male,12,winter,The winter is fun.,32.78
+37,4,10,Male,13,mountain,The mountain is fun.,20.21
+37,4,10,Male,14,river,I am hapy river day.,25.53
+37,4,10,Male,15,delicious,The delicious is fun.,32.48
+37,4,10,Male,16,tired,I am hapy tired day.,32.47
+37,4,10,Male,17,excited,The excited is fun.,20.37
+37,4,10,Male,18,football,I am hapy football day.,32.76
+37,4,10,Male,19,library,I am hapy library day.,36.74
+37,4,10,Male,20,birthday,I am hapy birthday day.,22.89
+37,4,10,Male,22,computer,I am hapy computer day.,35.46
+37,4,10,Male,23,pencil,The pencil is fun.,20.55
+37,4,10,Male,24,music,The music is fun.,28.5
+37,4,10,Male,25,forest,I am hapy forest day.,21.23
+37,4,10,Male,26,painting,I am hapy painting day.,31.03
+37,4,10,Male,27,ocean,The ocean is fun.,34.62
+37,4,10,Male,28,storm,I am hapy storm day.,35.09
+37,4,10,Male,30,desert,The desert is fun.,33.69
+37,4,10,Male,33,island,The island is fun.,28.8
+37,4,10,Male,34,train,I am hapy train day.,29.79
+37,4,10,Male,36,market,I am hapy market day.,27.2
+37,4,10,Male,38,city,I am hapy city day.,24.25
+37,4,10,Male,39,country,The country is fun.,34.06
+37,4,10,Male,40,language,The language is fun.,33.95
+37,4,10,Male,42,dinner,I am hapy dinner day.,23.45
+37,4,10,Male,43,chocolate,I am hapy chocolate day.,30.7
+37,4,10,Male,44,science,I am hapy science day.,37.49
+37,4,10,Male,45,history,I am hapy history day.,29.46
+37,4,10,Male,46,planet,The planet is fun.,28.88
+37,4,10,Male,47,star,I am hapy star day.,27.56
+37,4,10,Male,48,moon,The moon is fun.,37.9
+37,4,10,Male,49,earth,The earth is fun.,21.06
+37,4,10,Male,50,sun,I am hapy sun day.,23.56
+37,4,10,Male,51,camera,The camera is fun.,32.55
+37,4,10,Male,52,telephone,I am hapy telephone day.,26.09
+37,4,10,Male,53,television,The television is fun.,25.0
+37,4,10,Male,54,robot,The robot is fun.,30.81
+37,4,10,Male,55,book,I am hapy book day.,22.45
+37,4,10,Male,56,basketball,I am hapy basketball day.,26.84
+37,4,10,Male,57,baseball,I am hapy baseball day.,21.32
+37,4,10,Male,58,tennis,I am hapy tennis day.,23.94
+37,4,10,Male,60,dance,I am hapy dance day.,35.43
+38,5,11,Male,1,because,I am hapy because day.,27.14
+38,5,11,Male,3,quickly,The quickly is fun.,23.59
+38,5,11,Male,4,friend,I am hapy friend day.,36.27
+38,5,11,Male,5,school,The school is fun.,24.6
+38,5,11,Male,7,happy,I am hapy happy day.,32.74
+38,5,11,Male,9,garden,I am hapy garden day.,37.89
+38,5,11,Male,10,favorite,The favorite is fun.,22.32
+38,5,11,Male,13,mountain,The mountain is fun.,28.02
+38,5,11,Male,14,river,I am hapy river day.,23.49
+38,5,11,Male,16,tired,I am hapy tired day.,29.04
+38,5,11,Male,17,excited,I am hapy excited day.,25.78
+38,5,11,Male,19,library,I am hapy library day.,32.81
+38,5,11,Male,21,teacher,I am hapy teacher day.,33.57
+38,5,11,Male,22,computer,I am hapy computer day.,21.69
+38,5,11,Male,23,pencil,I am hapy pencil day.,21.42
+38,5,11,Male,24,music,I am hapy music day.,32.35
+38,5,11,Male,26,painting,The painting is fun.,23.33
+38,5,11,Male,27,ocean,I am hapy ocean day.,22.09
+38,5,11,Male,28,storm,The storm is fun.,21.21
+38,5,11,Male,29,snow,I am hapy snow day.,37.81
+38,5,11,Male,30,desert,I am hapy desert day.,21.94
+38,5,11,Male,32,bridge,I am hapy bridge day.,34.64
+38,5,11,Male,33,island,The island is fun.,22.21
+38,5,11,Male,34,train,I am hapy train day.,39.03
+38,5,11,Male,37,village,I am hapy village day.,20.64
+38,5,11,Male,38,city,The city is fun.,33.66
+38,5,11,Male,39,country,The country is fun.,37.83
+38,5,11,Male,40,language,The language is fun.,23.71
+38,5,11,Male,41,breakfast,I am hapy breakfast day.,28.84
+38,5,11,Male,42,dinner,I am hapy dinner day.,33.46
+38,5,11,Male,45,history,I am hapy history day.,35.88
+38,5,11,Male,50,sun,I am hapy sun day.,25.1
+38,5,11,Male,51,camera,The camera is fun.,27.32
+38,5,11,Male,54,robot,I am hapy robot day.,34.63
+38,5,11,Male,55,book,The book is fun.,35.71
+38,5,11,Male,57,baseball,I am hapy baseball day.,25.15
+38,5,11,Male,58,tennis,I am hapy tennis day.,22.64
+38,5,11,Male,60,dance,I am hapy dance day.,32.38
+39,3,8,Male,3,quickly,I used the word quickly correctly in this sentence.,12.66
+39,3,8,Male,6,family,I used the word family correctly in this sentence.,6.56
+39,3,8,Male,7,happy,I used the word happy correctly in this sentence.,12.03
+39,3,8,Male,13,mountain,I used the word mountain correctly in this sentence.,12.65
+39,3,8,Male,18,football,I used the word football correctly in this sentence.,11.21
+39,3,8,Male,21,teacher,I used the word teacher correctly in this sentence.,7.33
+39,3,8,Male,22,computer,I used the word computer correctly in this sentence.,9.4
+39,3,8,Male,23,pencil,I used the word pencil correctly in this sentence.,13.57
+39,3,8,Male,26,painting,I used the word painting correctly in this sentence.,6.55
+39,3,8,Male,28,storm,I used the word storm correctly in this sentence.,8.36
+39,3,8,Male,30,desert,I used the word desert correctly in this sentence.,6.4
+39,3,8,Male,31,castle,I used the word castle correctly in this sentence.,9.13
+39,3,8,Male,32,bridge,I used the word bridge correctly in this sentence.,8.73
+39,3,8,Male,34,train,I used the word train correctly in this sentence.,9.03
+39,3,8,Male,38,city,I used the word city correctly in this sentence.,10.26
+39,3,8,Male,39,country,I used the word country correctly in this sentence.,13.25
+39,3,8,Male,40,language,I used the word language correctly in this sentence.,14.9
+39,3,8,Male,42,dinner,I used the word dinner correctly in this sentence.,6.66
+39,3,8,Male,47,star,I used the word star correctly in this sentence.,10.04
+39,3,8,Male,48,moon,I used the word moon correctly in this sentence.,9.23
+39,3,8,Male,49,earth,I used the word earth correctly in this sentence.,9.58
+39,3,8,Male,52,telephone,I used the word telephone correctly in this sentence.,6.76
+39,3,8,Male,56,basketball,I used the word basketball correctly in this sentence.,12.91
+39,3,8,Male,57,baseball,I used the word baseball correctly in this sentence.,11.15
+39,3,8,Male,58,tennis,I used the word tennis correctly in this sentence.,8.76
+40,4,9,Female,1,because,I used the word because correctly in this sentence.,7.51
+40,4,9,Female,2,beautiful,I used the word beautiful correctly in this sentence.,14.58
+40,4,9,Female,3,quickly,I used the word quickly correctly in this sentence.,11.33
+40,4,9,Female,4,friend,I used the word friend correctly in this sentence.,6.96
+40,4,9,Female,5,school,I used the word school correctly in this sentence.,11.98
+40,4,9,Female,6,family,I used the word family correctly in this sentence.,10.56
+40,4,9,Female,7,happy,I used the word happy correctly in this sentence.,9.04
+40,4,9,Female,8,animal,I used the word animal correctly in this sentence.,5.59
+40,4,9,Female,9,garden,I used the word garden correctly in this sentence.,9.27
+40,4,9,Female,10,favorite,I used the word favorite correctly in this sentence.,7.16
+40,4,9,Female,11,summer,I used the word summer correctly in this sentence.,6.85
+40,4,9,Female,12,winter,I used the word winter correctly in this sentence.,12.21
+40,4,9,Female,13,mountain,I used the word mountain correctly in this sentence.,14.93
+40,4,9,Female,14,river,I used the word river correctly in this sentence.,12.32
+40,4,9,Female,15,delicious,I used the word delicious correctly in this sentence.,8.83
+40,4,9,Female,16,tired,I used the word tired correctly in this sentence.,11.56
+40,4,9,Female,17,excited,I used the word excited correctly in this sentence.,10.63
+40,4,9,Female,18,football,I used the word football correctly in this sentence.,6.2
+40,4,9,Female,19,library,I used the word library correctly in this sentence.,6.09
+40,4,9,Female,20,birthday,I used the word birthday correctly in this sentence.,9.01
+40,4,9,Female,21,teacher,I used the word teacher correctly in this sentence.,7.76
+40,4,9,Female,22,computer,I used the word computer correctly in this sentence.,7.28
+40,4,9,Female,23,pencil,I used the word pencil correctly in this sentence.,9.96
+40,4,9,Female,24,music,I used the word music correctly in this sentence.,9.89
+40,4,9,Female,25,forest,I used the word forest correctly in this sentence.,12.4
+40,4,9,Female,26,painting,I used the word painting correctly in this sentence.,14.43
+40,4,9,Female,27,ocean,I used the word ocean correctly in this sentence.,7.3
+40,4,9,Female,28,storm,I used the word storm correctly in this sentence.,11.99
+40,4,9,Female,29,snow,I used the word snow correctly in this sentence.,11.2
+40,4,9,Female,30,desert,I used the word desert correctly in this sentence.,7.96
+40,4,9,Female,31,castle,I used the word castle correctly in this sentence.,12.83
+40,4,9,Female,32,bridge,I used the word bridge correctly in this sentence.,12.42
+40,4,9,Female,33,island,I used the word island correctly in this sentence.,14.29
+40,4,9,Female,34,train,I used the word train correctly in this sentence.,9.61
+40,4,9,Female,35,airplane,I used the word airplane correctly in this sentence.,11.23
+40,4,9,Female,36,market,I used the word market correctly in this sentence.,13.54
+40,4,9,Female,37,village,I used the word village correctly in this sentence.,10.81
+40,4,9,Female,38,city,I used the word city correctly in this sentence.,13.78
+40,4,9,Female,39,country,I used the word country correctly in this sentence.,7.84
+40,4,9,Female,40,language,I used the word language correctly in this sentence.,11.77
+40,4,9,Female,41,breakfast,I used the word breakfast correctly in this sentence.,6.92
+40,4,9,Female,42,dinner,I used the word dinner correctly in this sentence.,10.0
+40,4,9,Female,43,chocolate,I used the word chocolate correctly in this sentence.,12.37
+40,4,9,Female,44,science,I used the word science correctly in this sentence.,12.33
+40,4,9,Female,45,history,I used the word history correctly in this sentence.,9.99
+40,4,9,Female,46,planet,I used the word planet correctly in this sentence.,11.26
+40,4,9,Female,47,star,I used the word star correctly in this sentence.,10.27
+40,4,9,Female,48,moon,I used the word moon correctly in this sentence.,8.67
+40,4,9,Female,49,earth,I used the word earth correctly in this sentence.,6.96
+40,4,9,Female,50,sun,I used the word sun correctly in this sentence.,12.64
+40,4,9,Female,51,camera,I used the word camera correctly in this sentence.,10.6
+40,4,9,Female,52,telephone,I used the word telephone correctly in this sentence.,8.92
+40,4,9,Female,53,television,I used the word television correctly in this sentence.,11.06
+40,4,9,Female,54,robot,I used the word robot correctly in this sentence.,8.64
+40,4,9,Female,55,book,I used the word book correctly in this sentence.,11.95
+40,4,9,Female,56,basketball,I used the word basketball correctly in this sentence.,10.0
+40,4,9,Female,57,baseball,I used the word baseball correctly in this sentence.,13.41
+40,4,9,Female,58,tennis,I used the word tennis correctly in this sentence.,10.84
+40,4,9,Female,59,hockey,I used the word hockey correctly in this sentence.,10.37
+40,4,9,Female,60,dance,I used the word dance correctly in this sentence.,5.95
+41,4,10,Male,1,because,My because is nice.,23.49
+41,4,10,Male,2,beautiful,My beautiful is nice.,13.54
+41,4,10,Male,3,quickly,I go to skool every day quickly.,24.96
+41,4,10,Male,8,animal,I go to skool every day animal.,11.7
+41,4,10,Male,9,garden,My garden is nice.,11.46
+41,4,10,Male,10,favorite,I go to skool every day favorite.,21.94
+41,4,10,Male,11,summer,My summer is nice.,21.63
+41,4,10,Male,13,mountain,My mountain is nice.,24.96
+41,4,10,Male,14,river,I go to skool every day river.,17.56
+41,4,10,Male,15,delicious,My delicious is nice.,24.89
+41,4,10,Male,16,tired,My tired is nice.,24.54
+41,4,10,Male,17,excited,I go to skool every day excited.,13.42
+41,4,10,Male,18,football,My football is nice.,19.79
+41,4,10,Male,19,library,I go to skool every day library.,14.78
+41,4,10,Male,24,music,My music is nice.,12.69
+41,4,10,Male,28,storm,I go to skool every day storm.,23.56
+41,4,10,Male,29,snow,My snow is nice.,11.8
+41,4,10,Male,30,desert,I go to skool every day desert.,14.67
+41,4,10,Male,31,castle,My castle is nice.,13.35
+41,4,10,Male,33,island,I go to skool every day island.,15.97
+41,4,10,Male,34,train,My train is nice.,18.72
+41,4,10,Male,37,village,My village is nice.,24.67
+41,4,10,Male,39,country,I go to skool every day country.,15.06
+41,4,10,Male,40,language,My language is nice.,17.12
+41,4,10,Male,41,breakfast,My breakfast is nice.,10.07
+41,4,10,Male,42,dinner,My dinner is nice.,22.64
+41,4,10,Male,45,history,My history is nice.,13.09
+41,4,10,Male,47,star,My star is nice.,19.94
+41,4,10,Male,48,moon,My moon is nice.,20.18
+41,4,10,Male,50,sun,My sun is nice.,16.58
+41,4,10,Male,52,telephone,My telephone is nice.,13.39
+41,4,10,Male,55,book,I go to skool every day book.,13.41
+41,4,10,Male,58,tennis,My tennis is nice.,23.69
+41,4,10,Male,60,dance,My dance is nice.,20.78
+42,5,10,Male,2,beautiful,I used the word beautiful correctly in this sentence.,11.81
+42,5,10,Male,3,quickly,I used the word quickly correctly in this sentence.,7.56
+42,5,10,Male,4,friend,I used the word friend correctly in this sentence.,13.14
+42,5,10,Male,5,school,I used the word school correctly in this sentence.,9.9
+42,5,10,Male,6,family,I used the word family correctly in this sentence.,5.03
+42,5,10,Male,7,happy,I used the word happy correctly in this sentence.,10.66
+42,5,10,Male,8,animal,I used the word animal correctly in this sentence.,6.11
+42,5,10,Male,9,garden,I used the word garden correctly in this sentence.,5.36
+42,5,10,Male,11,summer,I used the word summer correctly in this sentence.,10.11
+42,5,10,Male,12,winter,I used the word winter correctly in this sentence.,12.15
+42,5,10,Male,16,tired,I used the word tired correctly in this sentence.,13.05
+42,5,10,Male,17,excited,I used the word excited correctly in this sentence.,11.4
+42,5,10,Male,18,football,I used the word football correctly in this sentence.,10.54
+42,5,10,Male,20,birthday,I used the word birthday correctly in this sentence.,12.65
+42,5,10,Male,21,teacher,I used the word teacher correctly in this sentence.,9.24
+42,5,10,Male,22,computer,I used the word computer correctly in this sentence.,10.6
+42,5,10,Male,23,pencil,I used the word pencil correctly in this sentence.,14.09
+42,5,10,Male,24,music,I used the word music correctly in this sentence.,13.43
+42,5,10,Male,25,forest,I used the word forest correctly in this sentence.,13.28
+42,5,10,Male,26,painting,I used the word painting correctly in this sentence.,14.21
+42,5,10,Male,27,ocean,I used the word ocean correctly in this sentence.,8.32
+42,5,10,Male,28,storm,I used the word storm correctly in this sentence.,5.36
+42,5,10,Male,30,desert,I used the word desert correctly in this sentence.,6.49
+42,5,10,Male,31,castle,I used the word castle correctly in this sentence.,9.78
+42,5,10,Male,32,bridge,I used the word bridge correctly in this sentence.,8.06
+42,5,10,Male,33,island,I used the word island correctly in this sentence.,14.18
+42,5,10,Male,34,train,I used the word train correctly in this sentence.,13.14
+42,5,10,Male,35,airplane,I used the word airplane correctly in this sentence.,10.3
+42,5,10,Male,36,market,I used the word market correctly in this sentence.,14.6
+42,5,10,Male,38,city,I used the word city correctly in this sentence.,6.53
+42,5,10,Male,39,country,I used the word country correctly in this sentence.,9.03
+42,5,10,Male,41,breakfast,I used the word breakfast correctly in this sentence.,11.52
+42,5,10,Male,43,chocolate,I used the word chocolate correctly in this sentence.,5.92
+42,5,10,Male,44,science,I used the word science correctly in this sentence.,5.07
+42,5,10,Male,45,history,I used the word history correctly in this sentence.,11.0
+42,5,10,Male,46,planet,I used the word planet correctly in this sentence.,7.58
+42,5,10,Male,47,star,I used the word star correctly in this sentence.,14.53
+42,5,10,Male,51,camera,I used the word camera correctly in this sentence.,14.88
+42,5,10,Male,52,telephone,I used the word telephone correctly in this sentence.,14.56
+42,5,10,Male,53,television,I used the word television correctly in this sentence.,14.57
+42,5,10,Male,54,robot,I used the word robot correctly in this sentence.,11.54
+42,5,10,Male,55,book,I used the word book correctly in this sentence.,10.89
+42,5,10,Male,56,basketball,I used the word basketball correctly in this sentence.,7.7
+42,5,10,Male,57,baseball,I used the word baseball correctly in this sentence.,6.27
+42,5,10,Male,58,tennis,I used the word tennis correctly in this sentence.,14.52
+42,5,10,Male,59,hockey,I used the word hockey correctly in this sentence.,5.98
+42,5,10,Male,60,dance,I used the word dance correctly in this sentence.,11.44
+43,4,9,Female,1,because,I am hapy because day.,39.16
+43,4,9,Female,2,beautiful,I am hapy beautiful day.,36.95
+43,4,9,Female,3,quickly,I am hapy quickly day.,33.22
+43,4,9,Female,4,friend,The friend is fun.,26.88
+43,4,9,Female,5,school,The school is fun.,27.48
+43,4,9,Female,6,family,I am hapy family day.,31.33
+43,4,9,Female,7,happy,The happy is fun.,24.43
+43,4,9,Female,8,animal,I am hapy animal day.,28.61
+43,4,9,Female,9,garden,I am hapy garden day.,21.28
+43,4,9,Female,10,favorite,I am hapy favorite day.,27.05
+43,4,9,Female,11,summer,The summer is fun.,26.77
+43,4,9,Female,13,mountain,The mountain is fun.,28.04
+43,4,9,Female,14,river,I am hapy river day.,20.4
+43,4,9,Female,15,delicious,I am hapy delicious day.,39.7
+43,4,9,Female,16,tired,I am hapy tired day.,25.82
+43,4,9,Female,17,excited,I am hapy excited day.,25.54
+43,4,9,Female,18,football,I am hapy football day.,37.23
+43,4,9,Female,19,library,I am hapy library day.,33.12
+43,4,9,Female,20,birthday,I am hapy birthday day.,25.59
+43,4,9,Female,21,teacher,I am hapy teacher day.,30.78
+43,4,9,Female,22,computer,I am hapy computer day.,24.21
+43,4,9,Female,23,pencil,I am hapy pencil day.,23.99
+43,4,9,Female,24,music,I am hapy music day.,21.03
+43,4,9,Female,25,forest,I am hapy forest day.,35.52
+43,4,9,Female,26,painting,I am hapy painting day.,26.25
+43,4,9,Female,27,ocean,I am hapy ocean day.,23.9
+43,4,9,Female,28,storm,The storm is fun.,38.24
+43,4,9,Female,29,snow,The snow is fun.,32.16
+43,4,9,Female,30,desert,The desert is fun.,38.55
+43,4,9,Female,31,castle,I am hapy castle day.,24.54
+43,4,9,Female,34,train,I am hapy train day.,34.94
+43,4,9,Female,35,airplane,I am hapy airplane day.,23.36
+43,4,9,Female,36,market,I am hapy market day.,29.81
+43,4,9,Female,37,village,I am hapy village day.,24.23
+43,4,9,Female,38,city,The city is fun.,26.43
+43,4,9,Female,39,country,The country is fun.,27.37
+43,4,9,Female,40,language,The language is fun.,33.06
+43,4,9,Female,41,breakfast,I am hapy breakfast day.,39.39
+43,4,9,Female,42,dinner,The dinner is fun.,24.42
+43,4,9,Female,43,chocolate,I am hapy chocolate day.,31.27
+43,4,9,Female,44,science,I am hapy science day.,34.45
+43,4,9,Female,45,history,I am hapy history day.,32.95
+43,4,9,Female,46,planet,The planet is fun.,20.41
+43,4,9,Female,47,star,I am hapy star day.,35.04
+43,4,9,Female,48,moon,I am hapy moon day.,36.08
+43,4,9,Female,49,earth,I am hapy earth day.,28.52
+43,4,9,Female,51,camera,I am hapy camera day.,32.57
+43,4,9,Female,52,telephone,I am hapy telephone day.,22.3
+43,4,9,Female,53,television,I am hapy television day.,29.04
+43,4,9,Female,54,robot,I am hapy robot day.,20.03
+43,4,9,Female,55,book,The book is fun.,34.31
+43,4,9,Female,56,basketball,I am hapy basketball day.,29.07
+43,4,9,Female,57,baseball,The baseball is fun.,23.64
+43,4,9,Female,58,tennis,I am hapy tennis day.,20.08
+43,4,9,Female,59,hockey,The hockey is fun.,20.68
+43,4,9,Female,60,dance,I am hapy dance day.,23.63
+44,5,11,Male,1,because,My because is nice.,17.38
+44,5,11,Male,3,quickly,I go to skool every day quickly.,11.16
+44,5,11,Male,4,friend,My friend is nice.,21.16
+44,5,11,Male,6,family,My family is nice.,17.73
+44,5,11,Male,8,animal,My animal is nice.,15.31
+44,5,11,Male,9,garden,I go to skool every day garden.,17.26
+44,5,11,Male,10,favorite,My favorite is nice.,13.7
+44,5,11,Male,13,mountain,I go to skool every day mountain.,14.75
+44,5,11,Male,14,river,I go to skool every day river.,10.12
+44,5,11,Male,15,delicious,I go to skool every day delicious.,10.08
+44,5,11,Male,16,tired,My tired is nice.,18.42
+44,5,11,Male,20,birthday,My birthday is nice.,11.64
+44,5,11,Male,21,teacher,My teacher is nice.,11.57
+44,5,11,Male,23,pencil,My pencil is nice.,21.87
+44,5,11,Male,24,music,My music is nice.,16.88
+44,5,11,Male,25,forest,My forest is nice.,17.91
+44,5,11,Male,26,painting,My painting is nice.,18.66
+44,5,11,Male,29,snow,My snow is nice.,10.86
+44,5,11,Male,31,castle,I go to skool every day castle.,13.64
+44,5,11,Male,34,train,My train is nice.,20.91
+44,5,11,Male,35,airplane,My airplane is nice.,22.35
+44,5,11,Male,37,village,My village is nice.,14.51
+44,5,11,Male,41,breakfast,My breakfast is nice.,17.66
+44,5,11,Male,43,chocolate,I go to skool every day chocolate.,21.79
+44,5,11,Male,44,science,My science is nice.,11.83
+44,5,11,Male,46,planet,My planet is nice.,16.22
+44,5,11,Male,48,moon,My moon is nice.,18.01
+44,5,11,Male,52,telephone,I go to skool every day telephone.,15.04
+44,5,11,Male,54,robot,I go to skool every day robot.,13.22
+44,5,11,Male,55,book,My book is nice.,10.77
+44,5,11,Male,56,basketball,I go to skool every day basketball.,14.89
+44,5,11,Male,58,tennis,My tennis is nice.,13.37
+44,5,11,Male,59,hockey,I go to skool every day hockey.,20.13
+44,5,11,Male,60,dance,My dance is nice.,18.79
+45,3,9,Female,1,because,I used the word because correctly in this sentence.,7.73
+45,3,9,Female,3,quickly,I used the word quickly correctly in this sentence.,14.08
+45,3,9,Female,5,school,I used the word school correctly in this sentence.,14.04
+45,3,9,Female,7,happy,I used the word happy correctly in this sentence.,12.35
+45,3,9,Female,8,animal,I used the word animal correctly in this sentence.,10.14
+45,3,9,Female,9,garden,I used the word garden correctly in this sentence.,7.4
+45,3,9,Female,10,favorite,I used the word favorite correctly in this sentence.,13.0
+45,3,9,Female,11,summer,I used the word summer correctly in this sentence.,13.67
+45,3,9,Female,13,mountain,I used the word mountain correctly in this sentence.,10.3
+45,3,9,Female,14,river,I used the word river correctly in this sentence.,14.74
+45,3,9,Female,15,delicious,I used the word delicious correctly in this sentence.,8.35
+45,3,9,Female,16,tired,I used the word tired correctly in this sentence.,8.24
+45,3,9,Female,17,excited,I used the word excited correctly in this sentence.,7.92
+45,3,9,Female,18,football,I used the word football correctly in this sentence.,8.48
+45,3,9,Female,19,library,I used the word library correctly in this sentence.,13.73
+45,3,9,Female,20,birthday,I used the word birthday correctly in this sentence.,6.79
+45,3,9,Female,21,teacher,I used the word teacher correctly in this sentence.,12.64
+45,3,9,Female,22,computer,I used the word computer correctly in this sentence.,8.06
+45,3,9,Female,24,music,I used the word music correctly in this sentence.,11.69
+45,3,9,Female,25,forest,I used the word forest correctly in this sentence.,14.94
+45,3,9,Female,26,painting,I used the word painting correctly in this sentence.,11.18
+45,3,9,Female,27,ocean,I used the word ocean correctly in this sentence.,7.07
+45,3,9,Female,29,snow,I used the word snow correctly in this sentence.,7.4
+45,3,9,Female,30,desert,I used the word desert correctly in this sentence.,8.69
+45,3,9,Female,31,castle,I used the word castle correctly in this sentence.,12.46
+45,3,9,Female,32,bridge,I used the word bridge correctly in this sentence.,5.96
+45,3,9,Female,33,island,I used the word island correctly in this sentence.,10.67
+45,3,9,Female,34,train,I used the word train correctly in this sentence.,10.75
+45,3,9,Female,35,airplane,I used the word airplane correctly in this sentence.,10.3
+45,3,9,Female,37,village,I used the word village correctly in this sentence.,10.71
+45,3,9,Female,38,city,I used the word city correctly in this sentence.,5.93
+45,3,9,Female,39,country,I used the word country correctly in this sentence.,9.59
+45,3,9,Female,40,language,I used the word language correctly in this sentence.,10.92
+45,3,9,Female,42,dinner,I used the word dinner correctly in this sentence.,6.67
+45,3,9,Female,43,chocolate,I used the word chocolate correctly in this sentence.,13.62
+45,3,9,Female,44,science,I used the word science correctly in this sentence.,11.53
+45,3,9,Female,46,planet,I used the word planet correctly in this sentence.,6.36
+45,3,9,Female,47,star,I used the word star correctly in this sentence.,8.53
+45,3,9,Female,48,moon,I used the word moon correctly in this sentence.,5.45
+45,3,9,Female,49,earth,I used the word earth correctly in this sentence.,13.01
+45,3,9,Female,50,sun,I used the word sun correctly in this sentence.,10.09
+45,3,9,Female,51,camera,I used the word camera correctly in this sentence.,12.08
+45,3,9,Female,53,television,I used the word television correctly in this sentence.,14.35
+45,3,9,Female,54,robot,I used the word robot correctly in this sentence.,13.66
+45,3,9,Female,55,book,I used the word book correctly in this sentence.,11.62
+45,3,9,Female,56,basketball,I used the word basketball correctly in this sentence.,11.56
+45,3,9,Female,58,tennis,I used the word tennis correctly in this sentence.,8.9
+45,3,9,Female,60,dance,I used the word dance correctly in this sentence.,8.09
+46,6,11,Male,1,because,I am hapy because day.,35.44
+46,6,11,Male,2,beautiful,I am hapy beautiful day.,29.79
+46,6,11,Male,3,quickly,I am hapy quickly day.,33.85
+46,6,11,Male,4,friend,I am hapy friend day.,25.39
+46,6,11,Male,5,school,The school is fun.,31.43
+46,6,11,Male,6,family,I am hapy family day.,22.86
+46,6,11,Male,7,happy,I am hapy happy day.,32.99
+46,6,11,Male,8,animal,The animal is fun.,25.99
+46,6,11,Male,9,garden,The garden is fun.,39.29
+46,6,11,Male,10,favorite,I am hapy favorite day.,22.38
+46,6,11,Male,11,summer,I am hapy summer day.,22.18
+46,6,11,Male,12,winter,I am hapy winter day.,26.53
+46,6,11,Male,13,mountain,The mountain is fun.,26.13
+46,6,11,Male,14,river,The river is fun.,22.63
+46,6,11,Male,15,delicious,I am hapy delicious day.,26.4
+46,6,11,Male,16,tired,I am hapy tired day.,22.64
+46,6,11,Male,17,excited,I am hapy excited day.,22.3
+46,6,11,Male,18,football,I am hapy football day.,33.11
+46,6,11,Male,19,library,I am hapy library day.,30.92
+46,6,11,Male,20,birthday,I am hapy birthday day.,22.22
+46,6,11,Male,21,teacher,I am hapy teacher day.,38.19
+46,6,11,Male,22,computer,I am hapy computer day.,26.93
+46,6,11,Male,23,pencil,I am hapy pencil day.,20.25
+46,6,11,Male,24,music,I am hapy music day.,23.28
+46,6,11,Male,25,forest,I am hapy forest day.,35.77
+46,6,11,Male,26,painting,I am hapy painting day.,35.59
+46,6,11,Male,27,ocean,The ocean is fun.,36.56
+46,6,11,Male,28,storm,I am hapy storm day.,28.23
+46,6,11,Male,29,snow,I am hapy snow day.,36.89
+46,6,11,Male,30,desert,I am hapy desert day.,30.27
+46,6,11,Male,31,castle,I am hapy castle day.,29.62
+46,6,11,Male,32,bridge,The bridge is fun.,21.62
+46,6,11,Male,33,island,The island is fun.,33.21
+46,6,11,Male,34,train,I am hapy train day.,30.2
+46,6,11,Male,35,airplane,I am hapy airplane day.,38.02
+46,6,11,Male,36,market,I am hapy market day.,24.04
+46,6,11,Male,37,village,I am hapy village day.,25.1
+46,6,11,Male,38,city,The city is fun.,23.36
+46,6,11,Male,39,country,The country is fun.,26.11
+46,6,11,Male,40,language,I am hapy language day.,28.89
+46,6,11,Male,41,breakfast,I am hapy breakfast day.,28.09
+46,6,11,Male,42,dinner,The dinner is fun.,36.89
+46,6,11,Male,43,chocolate,I am hapy chocolate day.,23.34
+46,6,11,Male,44,science,The science is fun.,21.7
+46,6,11,Male,45,history,I am hapy history day.,38.83
+46,6,11,Male,46,planet,I am hapy planet day.,34.65
+46,6,11,Male,47,star,The star is fun.,38.61
+46,6,11,Male,48,moon,I am hapy moon day.,35.0
+46,6,11,Male,49,earth,The earth is fun.,30.29
+46,6,11,Male,50,sun,I am hapy sun day.,32.91
+46,6,11,Male,51,camera,I am hapy camera day.,21.24
+46,6,11,Male,52,telephone,The telephone is fun.,26.16
+46,6,11,Male,53,television,I am hapy television day.,26.11
+46,6,11,Male,54,robot,I am hapy robot day.,32.26
+46,6,11,Male,55,book,I am hapy book day.,32.74
+46,6,11,Male,56,basketball,The basketball is fun.,30.06
+46,6,11,Male,57,baseball,I am hapy baseball day.,28.3
+46,6,11,Male,58,tennis,I am hapy tennis day.,34.09
+46,6,11,Male,60,dance,I am hapy dance day.,27.71
+47,4,10,Male,1,because,My because is nice.,18.23
+47,4,10,Male,2,beautiful,I go to skool every day beautiful.,19.16
+47,4,10,Male,4,friend,My friend is nice.,16.83
+47,4,10,Male,5,school,My school is nice.,20.08
+47,4,10,Male,6,family,My family is nice.,23.9
+47,4,10,Male,7,happy,My happy is nice.,11.47
+47,4,10,Male,9,garden,My garden is nice.,19.26
+47,4,10,Male,11,summer,I go to skool every day summer.,12.0
+47,4,10,Male,14,river,My river is nice.,12.88
+47,4,10,Male,15,delicious,My delicious is nice.,22.17
+47,4,10,Male,17,excited,I go to skool every day excited.,21.43
+47,4,10,Male,18,football,My football is nice.,14.81
+47,4,10,Male,19,library,My library is nice.,11.1
+47,4,10,Male,21,teacher,My teacher is nice.,23.58
+47,4,10,Male,22,computer,My computer is nice.,18.85
+47,4,10,Male,23,pencil,My pencil is nice.,12.62
+47,4,10,Male,24,music,My music is nice.,21.88
+47,4,10,Male,27,ocean,My ocean is nice.,23.0
+47,4,10,Male,30,desert,I go to skool every day desert.,24.94
+47,4,10,Male,31,castle,My castle is nice.,15.24
+47,4,10,Male,33,island,My island is nice.,22.82
+47,4,10,Male,36,market,My market is nice.,10.11
+47,4,10,Male,37,village,My village is nice.,12.21
+47,4,10,Male,38,city,My city is nice.,23.01
+47,4,10,Male,39,country,My country is nice.,23.96
+47,4,10,Male,40,language,My language is nice.,21.94
+47,4,10,Male,42,dinner,My dinner is nice.,23.04
+47,4,10,Male,43,chocolate,My chocolate is nice.,19.08
+47,4,10,Male,44,science,My science is nice.,12.3
+47,4,10,Male,45,history,My history is nice.,11.71
+47,4,10,Male,46,planet,My planet is nice.,20.2
+47,4,10,Male,48,moon,My moon is nice.,21.56
+47,4,10,Male,49,earth,I go to skool every day earth.,11.37
+47,4,10,Male,51,camera,My camera is nice.,13.84
+47,4,10,Male,52,telephone,My telephone is nice.,23.26
+47,4,10,Male,53,television,My television is nice.,18.86
+47,4,10,Male,54,robot,My robot is nice.,23.43
+47,4,10,Male,55,book,My book is nice.,15.52
+47,4,10,Male,57,baseball,My baseball is nice.,25.0
+47,4,10,Male,58,tennis,My tennis is nice.,18.38
+47,4,10,Male,60,dance,My dance is nice.,21.3
+48,6,12,Male,1,because,I used the word because correctly in this sentence.,8.71
+48,6,12,Male,4,friend,I used the word friend correctly in this sentence.,6.16
+48,6,12,Male,6,family,I used the word family correctly in this sentence.,5.75
+48,6,12,Male,7,happy,I used the word happy correctly in this sentence.,13.25
+48,6,12,Male,9,garden,I used the word garden correctly in this sentence.,5.68
+48,6,12,Male,10,favorite,I used the word favorite correctly in this sentence.,6.38
+48,6,12,Male,12,winter,I used the word winter correctly in this sentence.,6.19
+48,6,12,Male,14,river,I used the word river correctly in this sentence.,6.65
+48,6,12,Male,16,tired,I used the word tired correctly in this sentence.,8.77
+48,6,12,Male,18,football,I used the word football correctly in this sentence.,12.07
+48,6,12,Male,20,birthday,I used the word birthday correctly in this sentence.,12.63
+48,6,12,Male,21,teacher,I used the word teacher correctly in this sentence.,5.75
+48,6,12,Male,22,computer,I used the word computer correctly in this sentence.,9.53
+48,6,12,Male,23,pencil,I used the word pencil correctly in this sentence.,14.91
+48,6,12,Male,25,forest,I used the word forest correctly in this sentence.,9.91
+48,6,12,Male,26,painting,I used the word painting correctly in this sentence.,7.59
+48,6,12,Male,27,ocean,I used the word ocean correctly in this sentence.,8.67
+48,6,12,Male,28,storm,I used the word storm correctly in this sentence.,9.82
+48,6,12,Male,29,snow,I used the word snow correctly in this sentence.,14.32
+48,6,12,Male,30,desert,I used the word desert correctly in this sentence.,7.56
+48,6,12,Male,31,castle,I used the word castle correctly in this sentence.,7.14
+48,6,12,Male,32,bridge,I used the word bridge correctly in this sentence.,12.21
+48,6,12,Male,33,island,I used the word island correctly in this sentence.,14.31
+48,6,12,Male,34,train,I used the word train correctly in this sentence.,12.51
+48,6,12,Male,36,market,I used the word market correctly in this sentence.,14.73
+48,6,12,Male,37,village,I used the word village correctly in this sentence.,11.11
+48,6,12,Male,38,city,I used the word city correctly in this sentence.,10.53
+48,6,12,Male,40,language,I used the word language correctly in this sentence.,14.67
+48,6,12,Male,41,breakfast,I used the word breakfast correctly in this sentence.,7.68
+48,6,12,Male,42,dinner,I used the word dinner correctly in this sentence.,12.14
+48,6,12,Male,43,chocolate,I used the word chocolate correctly in this sentence.,7.36
+48,6,12,Male,44,science,I used the word science correctly in this sentence.,14.41
+48,6,12,Male,46,planet,I used the word planet correctly in this sentence.,14.21
+48,6,12,Male,47,star,I used the word star correctly in this sentence.,14.61
+48,6,12,Male,48,moon,I used the word moon correctly in this sentence.,11.72
+48,6,12,Male,49,earth,I used the word earth correctly in this sentence.,8.14
+48,6,12,Male,51,camera,I used the word camera correctly in this sentence.,6.28
+48,6,12,Male,52,telephone,I used the word telephone correctly in this sentence.,10.36
+48,6,12,Male,53,television,I used the word television correctly in this sentence.,6.4
+48,6,12,Male,54,robot,I used the word robot correctly in this sentence.,12.82
+48,6,12,Male,56,basketball,I used the word basketball correctly in this sentence.,9.34
+48,6,12,Male,58,tennis,I used the word tennis correctly in this sentence.,13.18
+48,6,12,Male,59,hockey,I used the word hockey correctly in this sentence.,12.89
+48,6,12,Male,60,dance,I used the word dance correctly in this sentence.,7.48
+49,4,10,Female,1,because,I used the word because correctly in this sentence.,7.45
+49,4,10,Female,3,quickly,I used the word quickly correctly in this sentence.,11.79
+49,4,10,Female,4,friend,I used the word friend correctly in this sentence.,14.67
+49,4,10,Female,5,school,I used the word school correctly in this sentence.,9.16
+49,4,10,Female,6,family,I used the word family correctly in this sentence.,6.4
+49,4,10,Female,7,happy,I used the word happy correctly in this sentence.,12.97
+49,4,10,Female,8,animal,I used the word animal correctly in this sentence.,7.07
+49,4,10,Female,9,garden,I used the word garden correctly in this sentence.,8.49
+49,4,10,Female,11,summer,I used the word summer correctly in this sentence.,11.89
+49,4,10,Female,12,winter,I used the word winter correctly in this sentence.,13.59
+49,4,10,Female,13,mountain,I used the word mountain correctly in this sentence.,6.12
+49,4,10,Female,14,river,I used the word river correctly in this sentence.,10.97
+49,4,10,Female,16,tired,I used the word tired correctly in this sentence.,10.87
+49,4,10,Female,17,excited,I used the word excited correctly in this sentence.,7.88
+49,4,10,Female,18,football,I used the word football correctly in this sentence.,9.86
+49,4,10,Female,19,library,I used the word library correctly in this sentence.,9.93
+49,4,10,Female,20,birthday,I used the word birthday correctly in this sentence.,11.47
+49,4,10,Female,21,teacher,I used the word teacher correctly in this sentence.,9.2
+49,4,10,Female,22,computer,I used the word computer correctly in this sentence.,10.6
+49,4,10,Female,23,pencil,I used the word pencil correctly in this sentence.,6.2
+49,4,10,Female,24,music,I used the word music correctly in this sentence.,14.66
+49,4,10,Female,25,forest,I used the word forest correctly in this sentence.,13.07
+49,4,10,Female,26,painting,I used the word painting correctly in this sentence.,12.0
+49,4,10,Female,27,ocean,I used the word ocean correctly in this sentence.,10.33
+49,4,10,Female,28,storm,I used the word storm correctly in this sentence.,7.78
+49,4,10,Female,29,snow,I used the word snow correctly in this sentence.,5.06
+49,4,10,Female,30,desert,I used the word desert correctly in this sentence.,13.15
+49,4,10,Female,31,castle,I used the word castle correctly in this sentence.,10.05
+49,4,10,Female,32,bridge,I used the word bridge correctly in this sentence.,5.78
+49,4,10,Female,33,island,I used the word island correctly in this sentence.,10.27
+49,4,10,Female,34,train,I used the word train correctly in this sentence.,12.13
+49,4,10,Female,35,airplane,I used the word airplane correctly in this sentence.,8.11
+49,4,10,Female,36,market,I used the word market correctly in this sentence.,13.31
+49,4,10,Female,37,village,I used the word village correctly in this sentence.,12.12
+49,4,10,Female,38,city,I used the word city correctly in this sentence.,11.87
+49,4,10,Female,39,country,I used the word country correctly in this sentence.,10.29
+49,4,10,Female,40,language,I used the word language correctly in this sentence.,6.76
+49,4,10,Female,41,breakfast,I used the word breakfast correctly in this sentence.,6.29
+49,4,10,Female,42,dinner,I used the word dinner correctly in this sentence.,6.35
+49,4,10,Female,43,chocolate,I used the word chocolate correctly in this sentence.,10.35
+49,4,10,Female,44,science,I used the word science correctly in this sentence.,5.48
+49,4,10,Female,45,history,I used the word history correctly in this sentence.,11.84
+49,4,10,Female,46,planet,I used the word planet correctly in this sentence.,13.72
+49,4,10,Female,48,moon,I used the word moon correctly in this sentence.,12.91
+49,4,10,Female,49,earth,I used the word earth correctly in this sentence.,10.95
+49,4,10,Female,50,sun,I used the word sun correctly in this sentence.,14.53
+49,4,10,Female,51,camera,I used the word camera correctly in this sentence.,9.48
+49,4,10,Female,52,telephone,I used the word telephone correctly in this sentence.,5.19
+49,4,10,Female,53,television,I used the word television correctly in this sentence.,12.03
+49,4,10,Female,54,robot,I used the word robot correctly in this sentence.,5.88
+49,4,10,Female,55,book,I used the word book correctly in this sentence.,11.55
+49,4,10,Female,56,basketball,I used the word basketball correctly in this sentence.,7.32
+49,4,10,Female,57,baseball,I used the word baseball correctly in this sentence.,13.33
+49,4,10,Female,58,tennis,I used the word tennis correctly in this sentence.,13.4
+49,4,10,Female,59,hockey,I used the word hockey correctly in this sentence.,6.56
+49,4,10,Female,60,dance,I used the word dance correctly in this sentence.,6.8
+50,5,11,Female,1,because,I am hapy because day.,34.33
+50,5,11,Female,3,quickly,I am hapy quickly day.,27.39
+50,5,11,Female,4,friend,The friend is fun.,27.86
+50,5,11,Female,5,school,The school is fun.,30.59
+50,5,11,Female,6,family,I am hapy family day.,39.46
+50,5,11,Female,7,happy,I am hapy happy day.,23.93
+50,5,11,Female,8,animal,I am hapy animal day.,35.85
+50,5,11,Female,10,favorite,I am hapy favorite day.,30.39
+50,5,11,Female,11,summer,The summer is fun.,27.73
+50,5,11,Female,12,winter,The winter is fun.,23.4
+50,5,11,Female,13,mountain,The mountain is fun.,23.0
+50,5,11,Female,14,river,I am hapy river day.,22.13
+50,5,11,Female,15,delicious,I am hapy delicious day.,31.38
+50,5,11,Female,17,excited,I am hapy excited day.,37.67
+50,5,11,Female,18,football,I am hapy football day.,36.95
+50,5,11,Female,19,library,The library is fun.,33.66
+50,5,11,Female,20,birthday,I am hapy birthday day.,25.06
+50,5,11,Female,21,teacher,I am hapy teacher day.,25.49
+50,5,11,Female,22,computer,I am hapy computer day.,37.57
+50,5,11,Female,24,music,I am hapy music day.,23.02
+50,5,11,Female,26,painting,The painting is fun.,27.53
+50,5,11,Female,27,ocean,The ocean is fun.,33.48
+50,5,11,Female,28,storm,I am hapy storm day.,28.14
+50,5,11,Female,29,snow,I am hapy snow day.,22.52
+50,5,11,Female,30,desert,I am hapy desert day.,23.45
+50,5,11,Female,31,castle,I am hapy castle day.,31.65
+50,5,11,Female,33,island,I am hapy island day.,20.65
+50,5,11,Female,34,train,I am hapy train day.,36.59
+50,5,11,Female,35,airplane,I am hapy airplane day.,33.84
+50,5,11,Female,37,village,I am hapy village day.,32.45
+50,5,11,Female,38,city,The city is fun.,24.93
+50,5,11,Female,39,country,The country is fun.,33.17
+50,5,11,Female,41,breakfast,The breakfast is fun.,27.43
+50,5,11,Female,42,dinner,I am hapy dinner day.,22.36
+50,5,11,Female,43,chocolate,I am hapy chocolate day.,22.95
+50,5,11,Female,44,science,The science is fun.,33.74
+50,5,11,Female,45,history,I am hapy history day.,22.26
+50,5,11,Female,46,planet,I am hapy planet day.,23.88
+50,5,11,Female,47,star,I am hapy star day.,36.9
+50,5,11,Female,48,moon,I am hapy moon day.,28.51
+50,5,11,Female,51,camera,I am hapy camera day.,31.38
+50,5,11,Female,52,telephone,I am hapy telephone day.,27.14
+50,5,11,Female,53,television,I am hapy television day.,28.47
+50,5,11,Female,54,robot,The robot is fun.,36.5
+50,5,11,Female,56,basketball,The basketball is fun.,23.86
+50,5,11,Female,57,baseball,The baseball is fun.,32.97
+50,5,11,Female,58,tennis,I am hapy tennis day.,26.04
+50,5,11,Female,59,hockey,The hockey is fun.,31.75
+50,5,11,Female,60,dance,The dance is fun.,22.98
