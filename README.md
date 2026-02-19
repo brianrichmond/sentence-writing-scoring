@@ -8,69 +8,76 @@ Given a student sentence and a target word, determine whether the student used t
 
 ## Approach
 
-- **Primary:** LLM-based scoring (prompt-engineered, few-shot) to evaluate morphology, grammar, and semantics in one pass
+- **Primary:** LLM-based scoring (Claude, prompt-engineered) to evaluate morphology, grammar, and semantics in one pass
 - **Baseline:** Rule-based NLP pipeline (spaCy lemmatization + POS tagging) for interpretability and sanity-checking
 - **Validation:** Inter-rater agreement between LLM, rule-based, and (when available) human raters via Cohen's Kappa
-
-See `notebooks/` for full methodology and results write-up.
 
 ## Project Structure
 
 ```
 sentence-writing-scoring/
 ├── data/
-│   ├── raw/                  # Original dataset (not committed)
-│   └── processed/            # Cleaned/transformed data
+│   └── raw/
+│       └── sentence_writing_test_data_unique_words.csv
 ├── notebooks/
-│   └── scoring_analysis.ipynb
-├── src/
-│   ├── llm_scorer.py         # LLM-based scoring logic
-│   ├── rule_based_scorer.py  # spaCy pipeline
-│   └── evaluate.py           # Validation and agreement metrics
+│   └── scoring_analysis.ipynb   # All analysis — run this top to bottom
 ├── outputs/
-│   └── scored_responses.csv  # Final scored dataset
-├── .env.example              # Template for environment variables
+│   ├── scored_responses.csv     # Final scored dataset (generated)
+│   ├── llm_scores_cache.csv     # LLM scores cache (generated)
+│   └── human_review_sample.csv  # Stratified review sample (generated)
 ├── .gitignore
-├── requirements.txt
 └── README.md
 ```
 
-## Setup
+## Quickstart for Reviewers
 
-1. Clone the repo and create a virtual environment:
-   ```bash
-   git clone https://github.com/your-username/sentence-writing-scoring.git
-   cd sentence-writing-scoring
-   python -m venv venv
-   source venv/bin/activate  # Windows: venv\Scripts\activate
-   pip install -r requirements.txt
-   ```
+### 1. Prerequisites
 
-2. Copy `.env.example` to `.env` and add your API key:
-   ```bash
-   cp .env.example .env
-   ```
+- Python 3.10+ (Anaconda recommended)
+- Jupyter Notebook or JupyterLab
+- An [Anthropic API key](https://platform.claude.com/settings/keys) — new accounts receive free trial credits
 
-3. Add the raw dataset to `data/raw/` (not committed — see Data section below).
+### 2. Install dependencies
 
-## Data
+Run **Cell 2** of the notebook, or manually:
 
-The dataset is not committed to this repo. Place the raw CSV in `data/raw/` before running any notebooks or scripts. The dataset contains student responses with the following columns: `student_id`, `grade`, `age`, `gender`, `item_id`, `target_word`, `student_sentence`, `time_spent_seconds`.
+```bash
+pip install anthropic spacy scikit-learn pandas numpy matplotlib seaborn
+python -m spacy download en_core_web_sm
+```
 
-## Environment Variables
+### 3. Add your API key
 
-See `.env.example`. Required:
-- `ANTHROPIC_API_KEY` or `OPENAI_API_KEY` depending on the LLM provider used
+Copy `.env.example` to `.env` and add your key:
 
-## Requirements
+```bash
+cp .env.example .env
+```
 
-See `requirements.txt`. Key dependencies:
-- `spacy` + `en_core_web_sm` model
-- `anthropic` or `openai`
-- `pandas`, `numpy`
-- `scikit-learn` (for evaluation metrics)
-- `jupyter`
+Then edit `.env`:
+
+```
+ANTHROPIC_API_KEY=sk-ant-your-key-here
+```
+
+The notebook loads this automatically. `.env` is gitignored and will never be committed.
+
+### 4. Add the data
+
+Place the raw dataset in:
+
+```
+data/raw/sentence_writing_test_data_unique_words.csv
+```
+
+Expected columns: `student_id`, `grade`, `age`, `gender`, `item_id`, `target_word`, `student_sentence`, `time_spent_seconds`.
+
+### 5. Run the notebook
+
+Open `notebooks/scoring_analysis.ipynb` and run all cells top to bottom.
+
+The full LLM scoring run (~2,179 rows) takes roughly **45–60 minutes** on a free-tier Anthropic account due to the 50 requests/minute rate limit. The notebook uses `CONCURRENCY=3` and automatic retry with exponential backoff (`max_retries=6`) to stay within limits reliably. Progress is printed every 100 rows and results are cached to `outputs/llm_scores_cache.csv` — if the run is interrupted, re-running the cell will skip already-scored rows and only retry failures.
 
 ## Validation Strategy
 
-With no ground-truth labels initially, agreement between the LLM and rule-based scorer flags uncertain cases for human review. Once human-rated labels are available, Cohen's Kappa is used to measure algorithm-human agreement, and failure modes are analyzed to refine the prompt or rules. Labeled examples also serve as future fine-tuning data for a lighter-weight classifier.
+With no ground-truth labels initially, agreement between the LLM and rule-based scorer flags uncertain cases for human review. Once human-rated labels are available, Cohen's Kappa is used to measure algorithm–human agreement, and failure modes are analyzed to refine the prompt or rules. Labeled examples also serve as future fine-tuning data for a lighter-weight classifier.
