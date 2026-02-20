@@ -1,0 +1,51 @@
+student_id,grade,total_responses,template_count,vacuous_count,scaffold_count,genuine_count,llm_correct,rb_correct,template_rate,vacuous_rate,templates_used,max_single_frame_count,dominant_frame_rate,template_rate_pctile,flag_vacuous,flag_repetitive,flag_for_followup
+26,5,47,47,47,0,0,0,0,1.0,1.0,used_word_correctly,47,1.0,0.51,True,True,True
+23,3,47,47,47,0,0,0,0,1.0,1.0,used_word_correctly,47,1.0,0.51,True,True,True
+25,3,59,59,59,0,0,0,0,1.0,1.0,used_word_correctly,59,1.0,0.51,True,True,True
+18,5,39,39,39,0,0,0,0,1.0,1.0,used_word_correctly,39,1.0,0.51,True,True,True
+2,5,36,36,36,0,0,0,0,1.0,1.0,used_word_correctly,36,1.0,0.51,True,True,True
+30,4,40,40,40,0,0,0,0,1.0,1.0,used_word_correctly,40,1.0,0.51,True,True,True
+15,3,32,32,32,0,0,0,0,1.0,1.0,used_word_correctly,32,1.0,0.51,True,True,True
+14,4,26,26,26,0,0,0,0,1.0,1.0,used_word_correctly,26,1.0,0.51,True,True,True
+31,5,46,46,46,0,0,0,0,1.0,1.0,used_word_correctly,46,1.0,0.51,True,True,True
+33,3,42,42,42,0,0,0,0,1.0,1.0,used_word_correctly,42,1.0,0.51,True,True,True
+34,3,49,49,49,0,0,0,0,1.0,1.0,used_word_correctly,49,1.0,0.51,True,True,True
+39,3,25,25,25,0,0,0,0,1.0,1.0,used_word_correctly,25,1.0,0.51,True,True,True
+40,4,60,60,60,0,0,0,0,1.0,1.0,used_word_correctly,60,1.0,0.51,True,True,True
+42,5,47,47,47,0,0,0,0,1.0,1.0,used_word_correctly,47,1.0,0.51,True,True,True
+7,4,39,39,39,0,0,0,0,1.0,1.0,used_word_correctly,39,1.0,0.51,True,True,True
+6,4,50,50,50,0,0,0,0,1.0,1.0,used_word_correctly,50,1.0,0.51,True,True,True
+45,3,48,48,48,0,0,0,0,1.0,1.0,used_word_correctly,48,1.0,0.51,True,True,True
+48,6,44,44,44,0,0,0,0,1.0,1.0,used_word_correctly,44,1.0,0.51,True,True,True
+49,4,56,56,56,0,0,0,0,1.0,1.0,used_word_correctly,56,1.0,0.51,True,True,True
+24,3,42,42,42,0,0,0,0,1.0,1.0,used_word_correctly,42,1.0,0.51,True,True,True
+1,4,43,43,35,8,0,8,8,1.0,0.814,"hapy_day, the_is_fun",35,0.814,0.51,True,True,True
+10,5,58,58,47,11,0,11,15,1.0,0.81,"hapy_day, the_is_fun",43,0.741,0.51,True,True,True
+11,6,25,25,19,6,0,6,7,1.0,0.76,"hapy_day, the_is_fun",18,0.72,0.51,True,True,True
+21,4,58,58,43,15,0,15,18,1.0,0.741,"hapy_day, the_is_fun",40,0.69,0.51,True,True,True
+43,4,56,56,41,15,0,15,16,1.0,0.732,"hapy_day, the_is_fun",40,0.714,0.51,True,True,True
+46,6,59,59,43,16,0,16,16,1.0,0.729,"hapy_day, the_is_fun",43,0.729,0.51,True,True,True
+13,6,47,47,34,13,0,13,15,1.0,0.723,"hapy_day, the_is_fun",32,0.681,0.51,True,True,True
+19,4,53,53,38,15,0,15,18,1.0,0.717,"hapy_day, the_is_fun",35,0.66,0.51,True,True,True
+38,5,38,38,27,11,0,11,12,1.0,0.711,"hapy_day, the_is_fun",26,0.684,0.51,True,True,True
+5,5,27,27,19,8,0,8,9,1.0,0.704,"hapy_day, the_is_fun",18,0.667,0.51,True,True,True
+22,5,30,30,21,9,0,9,10,1.0,0.7,"hapy_day, the_is_fun",20,0.667,0.51,True,True,True
+27,6,33,33,23,10,0,10,11,1.0,0.697,"hapy_day, the_is_fun",22,0.667,0.51,True,True,True
+4,3,59,59,41,18,0,18,21,1.0,0.695,"hapy_day, the_is_fun",38,0.644,0.51,True,True,True
+50,5,49,49,33,16,0,16,17,1.0,0.673,"hapy_day, the_is_fun",32,0.653,0.51,True,True,True
+36,5,42,42,28,14,0,14,16,1.0,0.667,"hapy_day, the_is_fun",26,0.619,0.51,True,True,True
+37,4,50,50,33,17,0,17,19,1.0,0.66,"hapy_day, the_is_fun",31,0.62,0.51,True,True,True
+8,5,45,45,29,16,0,16,18,1.0,0.644,"hapy_day, the_is_fun",27,0.6,0.51,True,True,True
+9,5,60,60,36,24,0,24,0,1.0,0.6,"my_is_nice, skool_every_day",36,0.6,0.51,True,True,True
+20,3,50,50,29,21,0,21,0,1.0,0.58,"my_is_nice, skool_every_day",33,0.66,0.51,True,True,True
+12,4,38,38,21,17,0,17,0,1.0,0.553,"my_is_nice, skool_every_day",27,0.711,0.51,True,True,True
+29,3,26,26,14,12,0,12,0,1.0,0.538,"my_is_nice, skool_every_day",18,0.692,0.51,True,True,True
+41,4,34,34,18,16,0,16,0,1.0,0.529,"my_is_nice, skool_every_day",23,0.676,0.51,True,True,True
+28,5,54,54,27,27,0,27,0,1.0,0.5,"my_is_nice, skool_every_day",41,0.759,0.51,False,True,True
+32,3,33,33,15,18,0,18,0,1.0,0.455,"my_is_nice, skool_every_day",27,0.818,0.51,False,True,True
+35,5,42,42,19,23,0,23,0,1.0,0.452,"my_is_nice, skool_every_day",31,0.738,0.51,False,True,True
+17,4,60,60,27,33,0,33,0,1.0,0.45,"my_is_nice, skool_every_day",45,0.75,0.51,False,True,True
+44,5,34,34,14,20,0,20,0,1.0,0.412,"my_is_nice, skool_every_day",23,0.676,0.51,False,True,True
+16,5,35,35,13,22,0,22,0,1.0,0.371,"my_is_nice, skool_every_day",27,0.771,0.51,False,True,True
+3,4,26,26,7,19,0,19,0,1.0,0.269,"my_is_nice, skool_every_day",22,0.846,0.51,False,True,True
+47,4,41,41,11,30,0,30,0,1.0,0.268,"my_is_nice, skool_every_day",36,0.878,0.51,False,True,True
